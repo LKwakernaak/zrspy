@@ -5,23 +5,56 @@ import click
 import datetime
 
 
+import sqlalchemy
+
+
 class client(): 
     @staticmethod
     def parse_table(table, day, month, year):
         table.dropna(how='all', inplace=True)
-        table.reset_index(inplace=True)
+        
         table['start_time'], table['end_time'] = zip(*table['Tijd'].map(lambda x: x.split(' ')))
         table['date'] = datetime.date(int(year), int(month), int(day))
+#        table.drop('Tijd', inplace=True)
+        
+        columns = table.columns
+        columns.drop('Aanvr.nr')
+        
+        aggregation_functions = {i:'first' for i in columns}
+        aggregation_functions['Locatie'] = lambda x: ' '.join(x)
+        
+        table = table.groupby('Aanvr.nr').aggregate(aggregation_functions)#[['start_time'], ['end_time']].apply(lambda x: ' '.join(x)).reset_index()
+#        print(table)
+        table.drop_duplicates('Aanvr.nr', inplace=True)
+        table.reset_index(inplace=True, drop=True)
+        
+        table.columns = [i.replace(' ','_').replace('.', '_') for i in columns]
+        
         return table
+    
+    def update_db(self, table, day, month, year):
+        # Remove date from previous table
+        date = datetime.date(int(year), int(month), int(day))
+        sql = "DELETE from appointments WHERE date='{:%Y-%m-%d}'".format(date)
+        
+        try:
+            with self.engine.begin() as conn:
+                conn.execute(sql)
+        except:
+            print('Created table')
+        
+        # Append to appointments
+        table.to_sql('appointments', self.engine, if_exists='append', index=False)
+        
     
     def startdriver(self):
         options = webdriver.ChromeOptions()
-#        options.add_argument('headless')
+        options.add_argument('headless')
         try:
             self.driver = webdriver.Chrome(chrome_options=options)
         except:
             self.driver = webdriver.Chrome()
-        self.driver.implicitly_wait(10)
+        self.driver.implicitly_wait(3)
     
     def _set(self, key, var):
         button = self.driver.find_element_by_name(key)
@@ -51,7 +84,14 @@ class client():
         table = soup.find_all('table')[1]
         df = pd.read_html(str(table), header=0)[0]
         self.driver.back()
-        df = self.parse_table(df, day, month, year)
+        try:
+            df = self.parse_table(df, day, month, year)
+        except:
+            print(df)
+
+        self.update_db(df, day, month, year)
+        
+        
         return df
     
     def grabpage(self, page_url, restart=True):
@@ -69,6 +109,8 @@ class client():
         self.errstring = "Start applicatie op de juiste manier!"
         self.startdriver()
         self.grabpage(self.base_url)
+        
+        self.engine = sqlalchemy.create_engine("sqlite:///data.db")
 
 @click.command()
 @click.argument('day', default=None, required=False)
@@ -89,7 +131,8 @@ def main(day, month, year, days):
         
         for date in date_list:
             table = c.grabtable(date.day, date.month, date.year)
-            click.echo(table.to_csv())
+#            click.echo(str(date.day), str(date.month), str(date.year))
+            print(str(date.day), str(date.month), str(date.year))
         
     else:
         if day is None:
