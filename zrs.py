@@ -172,7 +172,7 @@ def main(day, month, year, days):
     
     return None
 
-
-if __name__ == '__main__':
-    main()
-    
+#
+#if __name__ == '__main__':
+#    main()
+#    
