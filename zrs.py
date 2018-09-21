@@ -1,9 +1,10 @@
-from selenium import webdriver
+#from selenium import webdriver
 from bs4 import BeautifulSoup
 import pandas as pd
 import click
 import datetime
 
+import requests
 
 import sqlalchemy
 
@@ -46,15 +47,18 @@ class client():
         # Append to appointments
         table.to_sql('appointments', self.engine, if_exists='append', index=False)
         
+    def getcookies(self):
+        r = self.grabpage(self.base_url)
+        self.cookies = r.cookies
     
-    def startdriver(self):
-        options = webdriver.ChromeOptions()
-        options.add_argument('headless')
-        try:
-            self.driver = webdriver.Chrome(chrome_options=options)
-        except:
-            self.driver = webdriver.Chrome()
-        self.driver.implicitly_wait(3)
+#    def startdriver(self):
+#        options = webdriver.ChromeOptions()
+#        options.add_argument('headless')
+#        try:
+#            self.driver = webdriver.Chrome(chrome_options=options)
+#        except:
+#            self.driver = webdriver.Chrome()
+#        self.driver.implicitly_wait(3)
     
     def _set(self, key, var):
         button = self.driver.find_element_by_name(key)
@@ -74,16 +78,31 @@ class client():
         self._set('year', year)
     
     def grabtable(self, day, month, year):
-        go = self.driver.find_element_by_name("submit")
-        self.setday(day)
-        self.setmonth(month)
-        self.setyear(year)
-        go.click()
-        soup = BeautifulSoup(self.driver.page_source, 'lxml')
+#        go = self.driver.find_element_by_name("submit")
+#        self.setday(day)
+#        self.setmonth(month)
+#        self.setyear(year)
+#        go.click()
+        data = {'day':int(day),
+                'month':int(month),
+                'year':int(year),
+                'submit': 'Uitvoeren',
+                'res_instantie': "_ALL_",
+                'selgebouw': '_ALL_',
+                'zrssort': 'aanvangstijd',
+                'gebruiker':'',
+                'aanvrager':'',
+                'activiteit':''}
+        
+        r = requests.post(self.request_url, data=data, cookies=self.cookies)
+        
+        soup = BeautifulSoup(r.text, 'lxml')
+        
+#        print(soup)
         
         table = soup.find_all('table')[1]
         df = pd.read_html(str(table), header=0)[0]
-        self.driver.back()
+#        self.driver.back()
         try:
             df = self.parse_table(df, day, month, year)
         except:
@@ -95,20 +114,24 @@ class client():
         return df
     
     def grabpage(self, page_url, restart=True):
-        self.driver.get(page_url)
-        soup = BeautifulSoup(self.driver.page_source, 'lxml')
+#        self.driver.get(page_url)
+        r = requests.get(page_url)
+        soup = BeautifulSoup(r.text, 'lxml')
         if self.errstring in soup:
             if restart:
-                self.startdriver()
+#                self.startdriver()
                 self.grabpage(page_url, restart=False)
             else:
                 print("Multiple bad requests for:",page_url)
+        return r
     
     def __init__(self, *args, **kwargs):
-        self.base_url = "http://zrs.leidenuniv.nl"
+        self.base_url = "http://zrs.leidenuniv.nl/ul/start.php"
+        self.request_url = 'http://zrs.leidenuniv.nl/ul/query.php'
         self.errstring = "Start applicatie op de juiste manier!"
-        self.startdriver()
-        self.grabpage(self.base_url)
+#        self.startdriver()
+#        self.grabpage(self.base_url)
+        self.getcookies()
         
         self.engine = sqlalchemy.create_engine("sqlite:///data.db")
 
