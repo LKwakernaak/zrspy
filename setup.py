@@ -8,9 +8,12 @@ setup(
               'click',
               'bs4',
               'pandas',
+              'httplib2',
               'datetime',
               'requests',
-              'sqlalchemy'
+              'sqlalchemy',
+              'oauth2client',
+              'googleapiclient',
               ],
       entry_points='''
       [console_scripts]
