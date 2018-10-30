@@ -11,6 +11,11 @@ In case you want to mess around with zrspy add the development flag
 ```
 pip install . --development
 ```
+or
+```
+pip install -e .
+```
+
 When that is complete you can run zrspy from anywhere as a system command:
 ```
 zrspy update --days 120
