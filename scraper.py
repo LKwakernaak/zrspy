@@ -22,7 +22,6 @@ class Scraper():
 
         table = table.groupby('Aanvr.nr').aggregate(
             aggregation_functions)  # [['start_time'], ['end_time']].apply(lambda x: ' '.join(x)).reset_index()
-        #        print(table)
         table.drop_duplicates('Aanvr.nr', inplace=True)
         table.reset_index(inplace=True, drop=True)
 
@@ -46,18 +45,14 @@ class Scraper():
 
     def getcookies(self):
         r = self.session.get(self.base_url, allow_redirects=False)
-        print(r.headers)
         r = self.session.get(self.referer)
-        print(r.headers)
 
         soup = BeautifulSoup(r.text, 'html.parser')
         hidden_tag = soup.find('input', type='hidden')
-        print(hidden_tag, hidden_tag.attrs['value'])
 
         self.crsf_token = hidden_tag.attrs['value']
 
         self.cookies = r.cookies
-        # print(r.text)
 
     def _set(self, key, var):
         button = self.driver.find_element_by_name(key)
@@ -90,22 +85,20 @@ class Scraper():
                 'gebruiker': '',
                 'aanvrager': '',
                 'activiteit': ''}
-        print(data)
 
         self.session.headers["Referer"] = self.referer
 
         r = self.session.post(self.request_url, data=data, headers={"Referer":self.referer})
         r.raise_for_status()
-        print(r.headers)
+
         soup = BeautifulSoup(r.text, 'html.parser')
-        print(soup)
         table = soup.find_all('table')[1]
         df = pd.read_html(str(table), header=0)[0]
         #        self.driver.back()
         try:
             df = self.parse_table(df, day, month, year)
         except:
-            print(df)
+            print("Error parsing table\n",df)
         if update:
             self.update_db(df, day, month, year)
 
@@ -137,6 +130,43 @@ class Scraper():
         # self.getcookies()
 
         self.engine = sqlalchemy.create_engine("sqlite:///data.db")
+
+
+@click.command()
+@click.argument('day', default=None, required=False)
+@click.argument('month', default=None, required=False)
+@click.argument('year', default=None, required=False)
+@click.option('--days', default=None, help="The total number of days to fetch")
+def update_db(day, month, year, days):
+    c = Scraper()
+
+    click.echo("day {}\nmonth {}\nyear {}\ndays {}".format(day, month, year, days))
+
+    today = datetime.date.today()
+
+    if days is not None:
+        click.echo('sequence of days')
+        d = datetime.timedelta(days=1)
+        date_list = [today + d * (i + 1) for i in range(int(days))]
+
+        for date in date_list:
+            table = c.grabtable(date.day, date.month, date.year)
+            #            click.echo(str(date.day), str(date.month), str(date.year))
+            print(str(date.day), str(date.month), str(date.year))
+
+    else:
+        if day is None:
+            day = today.day
+        if month is None:
+            day = today.month
+        if year is None:
+            year = today.year
+
+        table = c.grabtable(day, month, year)
+        click.echo(table.to_csv())
+
+    print("Done!")
+    return None
 
 if __name__ == '__main__':
     scraper = Scraper()
