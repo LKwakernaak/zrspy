@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Installation
 Zrspy can be can as a from the command line like:
 ```
