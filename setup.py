@@ -13,7 +13,8 @@ setup(
               'requests',
               'sqlalchemy',
               'oauth2client',
-              'google-api-python-client'
+              'google-api-python-client',
+			  'lxml',
               ],
       entry_points='''
       [console_scripts]

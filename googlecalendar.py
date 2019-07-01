@@ -47,7 +47,7 @@ def tocalendar(queryfile):
     data = pd.read_sql_query(sqlquery, engine)
 
     if len(data) == 0:
-        click.secho("No matching appointments found. Try running zrspy update", fg='yellow')
+        click.secho("No matching appointments found. Try running zrspy update-db", fg='yellow')
         return
 
     click.echo("Authenticating google calendar connection")
