@@ -34,9 +34,9 @@ These dates are stored to a sqlite db file named data.db. When the information o
 
 
 # Export to google calendar
-Exporting to google calendar is done with the tocalendar command. This command requires a sql query as input. Supplied is the example.sql file that adds all physics masters classes of 2018-2019. All these classes have a class-number that starts with 4403 which is the filter used in the example:
+Exporting to google calendar is done with the to_gcal command. This command requires a sql query as input. Supplied is the example.sql file that adds all physics masters classes of 2018-2019. All these classes have a class-number that starts with 4403 which is the filter used in the example:
 ```
-zrspy tocalendar example.sql
+zrspy to_gcal example.sql
 ```
 The sql query file contains:
 ```sql

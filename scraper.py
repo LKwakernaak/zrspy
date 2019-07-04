@@ -4,6 +4,7 @@ import click
 import datetime
 import requests
 import sqlalchemy
+from multiprocessing import Pool
 
 class Scraper():
     @staticmethod
@@ -128,7 +129,7 @@ class Scraper():
 @click.argument('year', default=None, required=False)
 @click.option('--days', default=None, help="The total number of days to fetch")
 def update_db(day, month, year, days):
-    c = Scraper()
+    scraper = Scraper()
 
     click.echo("day {}\nmonth {}\nyear {}\ndays {}".format(day, month, year, days))
 
@@ -139,10 +140,11 @@ def update_db(day, month, year, days):
         d = datetime.timedelta(days=1)
         date_list = [today + d * (i + 1) for i in range(int(days))]
 
-        for date in date_list:
-            table = c.grabtable(date.day, date.month, date.year)
-            #            click.echo(str(date.day), str(date.month), str(date.year))
-            print(str(date.day), str(date.month), str(date.year))
+        with Pool(10) as p:
+            for date in date_list:
+                table = scraper.grabtable(date.day, date.month, date.year)
+                #            click.echo(str(date.day), str(date.month), str(date.year))
+                print(str(date.day), str(date.month), str(date.year))
 
     else:
         if day is None:
@@ -152,7 +154,7 @@ def update_db(day, month, year, days):
         if year is None:
             year = today.year
 
-        table = c.grabtable(day, month, year)
+        table = scraper.grabtable(day, month, year)
         click.echo(table.to_csv())
 
     print("Done!")

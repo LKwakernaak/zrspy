@@ -38,7 +38,7 @@ def listcals(service):
 
 @click.command()
 @click.argument('queryfile', required=True)
-def tocalendar(queryfile):
+def to_gcal(queryfile):
     click.echo('Fetching data')
     with open(queryfile) as f:
         sqlquery = f.read()
