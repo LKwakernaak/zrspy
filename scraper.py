@@ -54,16 +54,6 @@ class Scraper():
 
         self.cookies = r.cookies
 
-    def _set(self, key, var):
-        button = self.driver.find_element_by_name(key)
-        for i in button.find_elements_by_tag_name('option'):
-            option = i.text
-            if str(option) == str(var):
-                i.click()
-                return
-        # no setting found
-        raise Exception("Incorrect date")
-
     def setday(self, day):
         self._set('day', day)
 
