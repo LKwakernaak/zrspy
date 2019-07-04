@@ -31,17 +31,22 @@ def to_ics(queryfile):
             event = Event()
             event.name = "[{}] {}".format(i['Soort_act_'], i['Activiteit'])
 
-            begin = arrow.get(' '.join([i['date'],i[start_time]]), "YYYY-MM-DD HH:mm")
-            end = arrow.get(' '.join([i['date'], i[end_time]]), "YYYY-MM-DD HH:mm")
+            begin = arrow.get(' '.join([i['date'],i['start_time']]), "YYYY-MM-DD HH:mm")
+            end = arrow.get(' '.join([i['date'], i['end_time']]), "YYYY-MM-DD HH:mm")
 
             event.begin = begin
             event.end = end
-            
+            event.description = """{Activiteit}
+            Gebruiker {Gebruiker}
+            Aanvrager {Aanvr_pers} {Aanvrager}
+            Aanvraagnummer {Aanvr_nr}""".format(**i)
+
             calendar.events.add(event)
 
-
+    click.echo('Writing to {}.ics'.format(calname))
     with open('{}.ics'.format(calname), 'w') as f:
         f.writelines(calendar)
+    click.echo('Done!')
 
 
 
@@ -49,6 +54,7 @@ def to_ics(queryfile):
 if __name__ == "__main__":
     cal = Calendar()
     event = Event()
+    to_ics('lkwakernaak.sql')
 
 
 
