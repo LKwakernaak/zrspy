@@ -7,6 +7,8 @@ import pandas as pd
 
 from ics import Calendar, Event
 
+from datamodel import engine
+
 
 @click.command()
 def to_ics(queryfile):
@@ -14,7 +16,7 @@ def to_ics(queryfile):
     with open(queryfile) as f:
         sqlquery = f.read()
 
-    engine = sqlalchemy.create_engine("sqlite:///data.db")
+    # engine = sqlalchemy.create_engine("sqlite:///data.db")
     data = pd.read_sql_query(sqlquery, engine)
 
     if len(data) == 0:
@@ -36,10 +38,10 @@ def to_ics(queryfile):
 
             event.begin = begin
             event.end = end
-            event.description = """{Activiteit}
-            Gebruiker {Gebruiker}
-            Aanvrager {Aanvr_pers} {Aanvrager}
-            Aanvraagnummer {Aanvr_nr}""".format(**i)
+            event.description = """{activiteit}
+            Gebruiker {gebruiker}
+            Aanvrager {aanvr_pers} {aanvrager}
+            Aanvraagnummer {aanvr_nr}""".format(**i)
 
             calendar.events.add(event)
 

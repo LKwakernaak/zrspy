@@ -8,6 +8,8 @@ from httplib2 import Http
 from googleapiclient.discovery import build
 from oauth2client import file, client, tools
 
+from datamodel import engine
+
 def authenticate_gcal():
     """
     Dances the oath dance and returns a google calendar service client
@@ -43,7 +45,7 @@ def to_gcal(queryfile):
     with open(queryfile) as f:
         sqlquery = f.read()
 
-    engine = sqlalchemy.create_engine("sqlite:///data.db")
+    # engine = sqlalchemy.create_engine("sqlite:///data.db")
     data = pd.read_sql_query(sqlquery, engine)
 
     if len(data) == 0:
@@ -71,9 +73,9 @@ def to_gcal(queryfile):
     with click.progressbar(data.to_dict('records')) as bar:
         for i in bar:
             event = {
-                'summary': i['Soort_act_'][0] + ' ' + str(i['Activiteit']).split(' ', 1)[1],
-                'location': i['Locatie'],
-                'description': i['Soort_act_'] + i['Activiteit'],
+                'summary': i['soort_act'][0] + ' ' + str(i['activiteit']).split(' ', 1)[1],
+                'location': i['locatie'],
+                'description': i['soort_act'] + i['activiteit'],
                 'start': {
                     'dateTime': i['date'] + 'T' + i['start_time'] + ':00',
                     'timeZone': 'Europe/Amsterdam'

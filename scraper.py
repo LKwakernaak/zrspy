@@ -6,6 +6,8 @@ import requests
 import sqlalchemy
 from multiprocessing import Pool
 
+from datamodel import engine
+
 class Scraper():
     @staticmethod
     def parse_table(table, day, month, year):
@@ -28,6 +30,28 @@ class Scraper():
 
         table.columns = [i.replace(' ', '_').replace('.', '_') for i in columns]
 
+        mapping = {
+            "Tijd": "tijd",
+            "Locatie": "locatie",
+            "Soort_act_": "soort_act",
+            "Pers": "bezetting",
+            "Tbv_": "tbv",
+            "Groep": "groep",
+            "Activiteit": "activiteit",
+            "Gebruiker": "gebruiker",
+            "Aanvrager": "aanvrager",
+            "Aanvr_pers": "aanvr_pers",
+            "Aanvr_nr": "aanvr_nr"
+        }
+
+        table = pd.DataFrame(table)
+        table.rename(index=str, columns=mapping, inplace=True)
+        table['start_time'] += ":00"
+        table['end_time'] += ":00"
+
+        # table['start_time'] = pd.to_datetime(table['start_time'])
+        # table['end_time'] = pd.to_datetime(table['end_time'])
+
         return table
 
     def update_db(self, table, day, month, year):
@@ -36,13 +60,13 @@ class Scraper():
         sql = "DELETE from appointments WHERE date='{:%Y-%m-%d}'".format(date)
 
         try:
-            with self.engine.begin() as conn:
+            with engine.begin() as conn:
                 conn.execute(sql)
         except:
             print('Created table')
 
         # Append to appointments
-        table.to_sql('appointments', self.engine, if_exists='append', index=False)
+        table.to_sql('appointments', engine, if_exists='append', index=False)
 
     def getcookies(self):
         r = self.session.get(self.base_url, allow_redirects=False)
@@ -120,14 +144,14 @@ class Scraper():
         #        self.grabpage(self.base_url)
         # self.getcookies()
 
-        self.engine = sqlalchemy.create_engine("sqlite:///data.db")
+        # self.engine = sqlalchemy.create_engine("sqlite:///data.db")
 
 
-@click.command()
-@click.argument('day', default=None, required=False)
-@click.argument('month', default=None, required=False)
-@click.argument('year', default=None, required=False)
-@click.option('--days', default=None, help="The total number of days to fetch")
+# @click.command()
+# @click.argument('day', default=None, required=False)
+# @click.argument('month', default=None, required=False)
+# @click.argument('year', default=None, required=False)
+# @click.option('--days', default=None, help="The total number of days to fetch")
 def update_db(day, month, year, days):
     scraper = Scraper()
 
@@ -140,7 +164,7 @@ def update_db(day, month, year, days):
         d = datetime.timedelta(days=1)
         date_list = [today + d * (i + 1) for i in range(int(days))]
 
-        with Pool(10) as p:
+        with Pool(30) as p:
             for date in date_list:
                 table = scraper.grabtable(date.day, date.month, date.year)
                 #            click.echo(str(date.day), str(date.month), str(date.year))
@@ -166,5 +190,7 @@ if __name__ == '__main__':
     today = datetime.datetime.today().date()
     print(today)
 
-    print(scraper.grabtable(today.day,today.month,today.year))
+    print(scraper.grabtable(today.day+1,today.month,today.year))
     print(scraper.session.cookies)
+
+    update_db(1,1,1,120)
