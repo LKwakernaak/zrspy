@@ -9,8 +9,8 @@ from ics import Calendar, Event
 
 from datamodel import engine
 
-
 @click.command()
+@click.argument('queryfile', required=True)
 def to_ics(queryfile):
     click.echo("Fetching data")
     with open(queryfile) as f:

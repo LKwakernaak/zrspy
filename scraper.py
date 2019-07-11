@@ -147,11 +147,11 @@ class Scraper():
         # self.engine = sqlalchemy.create_engine("sqlite:///data.db")
 
 
-# @click.command()
-# @click.argument('day', default=None, required=False)
-# @click.argument('month', default=None, required=False)
-# @click.argument('year', default=None, required=False)
-# @click.option('--days', default=None, help="The total number of days to fetch")
+@click.command()
+@click.argument('day', default=None, required=False)
+@click.argument('month', default=None, required=False)
+@click.argument('year', default=None, required=False)
+@click.option('--days', default=None, help="The total number of days to fetch")
 def update_db(day, month, year, days):
     scraper = Scraper()
 

@@ -49,9 +49,9 @@ class Appointment(Base):
 
     def __repr__(self):
         return "<Appointment(Activiteit={}, Tijd={}, Locatie={})>".\
-                        format(self.Activiteit,
-                               self.Tijd,
-                               self.Locatie)
+                        format(self.activiteit,
+                               self.tijd,
+                               self.locatie)
 
 class Study(Base):
     __tablename__ = 'studies'
@@ -76,8 +76,8 @@ Base.metadata.create_all(engine)
 session = Session()
 
 def parse_appointments():
-    for count, appointment in session.query(func.count(Appointment.Activiteit), Appointment.Activiteit)\
-            .group_by(Appointment.Activiteit):
+    for count, appointment in session.query(func.count(Appointment.activiteit), Appointment.activiteit)\
+            .group_by(Appointment.activiteit):
         candidate = appointment.split()[0]
         candidate_study_key = candidate[:4]
         candidate_course_key = candidate[4:]
