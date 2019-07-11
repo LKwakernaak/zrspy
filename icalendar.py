@@ -1,8 +1,6 @@
 import os
 import click
 import arrow
-import datetime
-import sqlalchemy
 import pandas as pd
 
 from ics import Calendar, Event

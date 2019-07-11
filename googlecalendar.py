@@ -1,7 +1,6 @@
 import os
 import time
 import click
-import sqlalchemy
 import pandas as pd
 
 from httplib2 import Http

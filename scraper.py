@@ -3,7 +3,6 @@ import pandas as pd
 import click
 import datetime
 import requests
-import sqlalchemy
 from multiprocessing import Pool
 
 from datamodel import engine
