@@ -3,9 +3,24 @@ import pandas as pd
 import click
 import datetime
 import requests
+import time
 from multiprocessing import Pool
+import sys
 
-from datamodel import engine
+from datamodel import engine, parse_appointments, find_keys
+
+def progress(count, total, status=''):
+    """
+    Plot a loading bar while running a headless simulation
+    """
+    bar_len = 60
+    filled_len = int(round(bar_len * count / float(total)))
+
+    percents = round(100.0 * count / float(total), 1)
+    bar = '=' * filled_len + '-' * (bar_len - filled_len)
+
+    sys.stdout.write('\r \r[%s] %s%s ...%s' % (bar, percents, '%', status))
+    sys.stdout.flush()
 
 class Scraper():
     @staticmethod
@@ -43,10 +58,14 @@ class Scraper():
             "Aanvr_nr": "aanvr_nr"
         }
 
-        table = pd.DataFrame(table)
         table.rename(index=str, columns=mapping, inplace=True)
+
+        table = pd.DataFrame(table)
         table['start_time'] += ":00"
         table['end_time'] += ":00"
+
+        table['study_key'], table['course_key'] = list(zip(*map(find_keys, table['activiteit'])))
+        # print(list(zip(*map(find_keys, table['activiteit']))))
 
         # table['start_time'] = pd.to_datetime(table['start_time'])
         # table['end_time'] = pd.to_datetime(table['end_time'])
@@ -159,15 +178,13 @@ def update_db(day, month, year, days):
     today = datetime.date.today()
 
     if days is not None:
-        click.echo('sequence of days')
+        click.echo('sequence of {} days'.format(days))
         d = datetime.timedelta(days=1)
         date_list = [today + d * (i + 1) for i in range(int(days))]
 
-        with Pool(30) as p:
-            for date in date_list:
-                table = scraper.grabtable(date.day, date.month, date.year)
-                #            click.echo(str(date.day), str(date.month), str(date.year))
-                print(str(date.day), str(date.month), str(date.year))
+        for i, date in enumerate(date_list):
+            progress(i, len(date_list))
+            scraper.grabtable(date.day, date.month, date.year, True)
 
     else:
         if day is None:
@@ -180,16 +197,20 @@ def update_db(day, month, year, days):
         table = scraper.grabtable(day, month, year)
         click.echo(table.to_csv())
 
-    print("Done!")
-    return None
+    click.echo("Pulled data")
+    # click.echo("Parsing...")
+    parse_appointments()
 
 if __name__ == '__main__':
-    scraper = Scraper()
-
-    today = datetime.datetime.today().date()
-    print(today)
-
-    print(scraper.grabtable(today.day+1,today.month,today.year))
-    print(scraper.session.cookies)
-
-    update_db(1,1,1,120)
+    pass
+    # scraper = Scraper()
+    #
+    # today = datetime.datetime.today().date()
+    # # print(today)
+    #
+    # update_db(1,1,1,100)
+    #
+    # # print(scraper.grabtable(today.day+1,today.month,today.year))
+    # # print(scraper.session.cookies)
+    #
+    # update_db(1,1,1,120)

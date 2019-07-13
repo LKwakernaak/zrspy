@@ -1,11 +1,11 @@
 import sqlalchemy
-from sqlalchemy import Column, Integer, String, Date, Time, text, func, ForeignKey
+from sqlalchemy import Column, Integer, String, Date, Time, text, func, ForeignKey, exists
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker, relationship
-from fuzzywuzzy import fuzz
+# from fuzzywuzzy import fuzz
 
-engine = sqlalchemy.create_engine("sqlite:///data1.db")
-Session = sessionmaker(bind=engine)
+engine = sqlalchemy.create_engine("sqlite:///data3.db")
+Session = sessionmaker(bind=engine, autoflush=False, autocommit=False)
 
 Base = declarative_base()
 
@@ -57,6 +57,7 @@ class Study(Base):
     __tablename__ = 'studies'
 
     id = Column(Integer, primary_key=True)
+    name = Column(String)
     key = Column(String, unique=True)
     appointments = relationship('Appointment')
     courses = relationship('Course')
@@ -65,8 +66,8 @@ class Course(Base):
     __tablename__ = 'courses'
 
     id = Column(Integer, primary_key=True)
-    Activiteit = Column(String, unique=True)
-    key = Column(String)
+    name = Column(String)
+    key = Column(String, unique=True)
     study_key = Column(String, ForeignKey('studies.key'))
     appointments = relationship('Appointment')
 
@@ -75,19 +76,62 @@ Base.metadata.create_all(engine)
 
 session = Session()
 
-def parse_appointments():
-    for count, appointment in session.query(func.count(Appointment.activiteit), Appointment.activiteit)\
-            .group_by(Appointment.activiteit):
-        candidate = appointment.split()[0]
-        candidate_study_key = candidate[:4]
-        candidate_course_key = candidate[4:]
-        if candidate_study_key.isnumeric() and len(candidate_study_key)==4: # starts with a 4 digit number so is probably a study
-            if not session.query(Study).filter_by(key=candidate_study_key).first(): # study exists in db
-                session.add(Study(key=candidate_study_key))
+def find_keys(appointment):
+    candidate = appointment.split()[0]
+    candidate_study_key = candidate[:4]
+    candidate_course_key = candidate[4:]
+    if candidate_study_key.isnumeric() and len(candidate_study_key)==4: # starts with a 4 digit number so is probably a study
+        return candidate_study_key, candidate_course_key
+    else:
+        return None, None
 
-            if not session.query(Course).filter_by(key=candidate).first():
-                session.add(Course(key=candidate_course_key, Activiteit=appointment, study_key=candidate_study_key))
+
+def parse_appointments():
+    for appointment in session.query(Appointment)\
+            .filter(Appointment.study_key.isnot(None))\
+            .group_by(Appointment.study_key):
+        candidate_study_key = str(appointment.study_key)
+
+        if not session.query(Study).filter_by(key=candidate_study_key).first():  # study exists in db
+            session.add(Study(key=str(candidate_study_key)))
+            print('New study: {}'.format(candidate_study_key))
+
+    for appointment in session.query(Appointment)\
+            .filter(Appointment.course_key.isnot(None))\
+            .group_by(Appointment.course_key):
+        candidate_course_key = str(appointment.course_key)
+
+        if not session.query(Course).filter_by(key=candidate_course_key).first():
+            session.add(
+                Course(key=str(candidate_course_key), name=str(" ".join(appointment.activiteit.split()[1:])), study_key=str(candidate_study_key)))
+            print('New Course {}'.format(candidate_course_key))
+
+
+    # for count, appointment in session.query(func.count(Appointment.activiteit), Appointment)\
+    #         .group_by(Appointment.study_key):
+    #     # candidate = appointment.activiteit.split()[0]
+    #     # candidate_study_key = candidate[:4]
+    #     # candidate_course_key = candidate[4:]
+    #     candidate_study_key = str(appointment.study_key)
+    #     candidate_course_key = str(appointment.course_key)
+    #
+    #     if candidate_course_key is None or candidate_study_key is None:
+    #         continue
+    #
+    #     if candidate_study_key.isnumeric() and len(candidate_study_key)==4: # starts with a 4 digit number so is probably a study
+    #         print(candidate_study_key, candidate_course_key)
+    #         if not session.query(Study).filter_by(key=candidate_study_key).first(): # study exists in db
+    #             session.add(Study(key=str(candidate_study_key)))
+    #             print('New study')
+    #
+    #         if not session.query(Course).filter_by(key=candidate_course_key).first():
+    #             session.add(Course(key=str(candidate_course_key), Activiteit=str(appointment), study_key=str(candidate_study_key)))
+    #             print('New Course')
     session.commit()
+    # try:
+    #     session.commit()
+    # except:
+    #     print("No new studies or courses found")
 
 
 
@@ -98,4 +142,4 @@ def find_typo():
 if __name__ == '__main__':
     parse_appointments()
     find_typo()
-    print(fuzz.ratio('aap', 'mantequilla'))
+    # print(fuzz.ratio('aap', 'mantequilla'))
