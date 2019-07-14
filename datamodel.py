@@ -99,6 +99,7 @@ def parse_appointments():
     for appointment in session.query(Appointment)\
             .filter(Appointment.course_key.isnot(None))\
             .group_by(Appointment.course_key):
+        candidate_study_key = str(appointment.study_key)
         candidate_course_key = str(appointment.course_key)
 
         if not session.query(Course).filter_by(key=candidate_course_key).first():
@@ -106,32 +107,7 @@ def parse_appointments():
                 Course(key=str(candidate_course_key), name=str(" ".join(appointment.activiteit.split()[1:])), study_key=str(candidate_study_key)))
             print('New Course {}'.format(candidate_course_key))
 
-
-    # for count, appointment in session.query(func.count(Appointment.activiteit), Appointment)\
-    #         .group_by(Appointment.study_key):
-    #     # candidate = appointment.activiteit.split()[0]
-    #     # candidate_study_key = candidate[:4]
-    #     # candidate_course_key = candidate[4:]
-    #     candidate_study_key = str(appointment.study_key)
-    #     candidate_course_key = str(appointment.course_key)
-    #
-    #     if candidate_course_key is None or candidate_study_key is None:
-    #         continue
-    #
-    #     if candidate_study_key.isnumeric() and len(candidate_study_key)==4: # starts with a 4 digit number so is probably a study
-    #         print(candidate_study_key, candidate_course_key)
-    #         if not session.query(Study).filter_by(key=candidate_study_key).first(): # study exists in db
-    #             session.add(Study(key=str(candidate_study_key)))
-    #             print('New study')
-    #
-    #         if not session.query(Course).filter_by(key=candidate_course_key).first():
-    #             session.add(Course(key=str(candidate_course_key), Activiteit=str(appointment), study_key=str(candidate_study_key)))
-    #             print('New Course')
     session.commit()
-    # try:
-    #     session.commit()
-    # except:
-    #     print("No new studies or courses found")
 
 
 
