@@ -29,7 +29,7 @@ def to_ics(queryfile):
     with click.progressbar(data.to_dict('records')) as bar:
         for i in bar:
             event = Event()
-            event.name = "[{}] {}".format(i['Soort_act_'], i['Activiteit'])
+            event.name = "[{}] {}".format(i['soort_act'], i['activiteit'])
 
             begin = arrow.get(' '.join([i['date'],i['start_time']]), "YYYY-MM-DD HH:mm")
             end = arrow.get(' '.join([i['date'], i['end_time']]), "YYYY-MM-DD HH:mm")
