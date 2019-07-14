@@ -172,6 +172,11 @@ class Scraper():
 @click.option('--days', default=None, help="The total number of days to fetch")
 def update_db(day, month, year, days):
     scraper = Scraper()
+    pool = Pool(30)
+
+    def download_data(date):
+        # scraper = Scraper()
+        scraper.grabtable(date.day, date.month, date.year, True)
 
     click.echo("day {}\nmonth {}\nyear {}\ndays {}".format(day, month, year, days))
 
@@ -182,9 +187,11 @@ def update_db(day, month, year, days):
         d = datetime.timedelta(days=1)
         date_list = [today + d * (i + 1) for i in range(int(days))]
 
-        for i, date in enumerate(date_list):
+        res = [pool.apply_async(scraper.grabtable, (date.day, date.month, date.year, True)) for date in date_list]
+        for i, result in enumerate(res):
             progress(i, len(date_list))
-            scraper.grabtable(date.day, date.month, date.year, True)
+            # scraper.grabtable(date.day, date.month, date.year, True)
+            result.get()
 
     else:
         if day is None:
