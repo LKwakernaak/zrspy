@@ -1,0 +1,3685 @@
+BEGIN:VCALENDAR
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200424T091500Z
+DTEND:20200424T110000Z
+SUMMARY:[colleges] 4061KLASAH Klassieke Mechanica a - HC
+DESCRIPTION:4061KLASAH Klassieke Mechanica a - HC\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717393
+TRANSP:OPAQUE
+UID:69295860-5815-4bff-8b28-268d15961388@6929.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191113T091500Z
+DTEND:20191113T110000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716965
+TRANSP:OPAQUE
+UID:6925e9c9-ab3c-4cf8-9192-705ad8652d08@6925.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191002T161500Z
+DTEND:20191002T180000Z
+SUMMARY:[werkgroep/] 4071ASTROW Inleiding Astrofysica - WG
+DESCRIPTION:4071ASTROW Inleiding Astrofysica - WG\n            Gebruiker Hoekstra\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716974
+TRANSP:OPAQUE
+UID:06d0a133-f53a-4679-9d85-89ad853f9734@06d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200428T111500Z
+DTEND:20200428T130000Z
+SUMMARY:[werkgroep/] 4061ELMGVW Elektr & Magnetische Velden WG
+DESCRIPTION:4061ELMGVW Elektr & Magnetische Velden WG\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717634
+TRANSP:OPAQUE
+UID:798db694-dd2e-461b-bb89-0910992a50e5@798d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191105T141500Z
+DTEND:20191105T180000Z
+SUMMARY:[practicum] EN 2 groep a
+DESCRIPTION:EN 2 groep a\n            Gebruiker Martin van Hecke\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728483
+TRANSP:OPAQUE
+UID:04c0c63d-7364-4ced-8949-e040031e5386@04c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191211T131500Z
+DTEND:20191211T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:e3efe437-85e6-461a-b524-54906656eb6b@e3ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191010T091500Z
+DTEND:20191010T110000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716959
+TRANSP:OPAQUE
+UID:a7be8dd1-25a0-4b4a-964d-a2df5846f5d1@a7be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200527T131500Z
+DTEND:20200527T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:a25a40af-3025-40e3-91d3-e5a251ca7da0@a25a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191016T091500Z
+DTEND:20191016T110000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716965
+TRANSP:OPAQUE
+UID:b4593527-b6e3-41a0-86b7-7d91d6aaee3a@b459.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191126T091500Z
+DTEND:20191126T110000Z
+SUMMARY:[colleges] 4031PRGR4H Programmeermethoden NA - HC
+DESCRIPTION:4031PRGR4H Programmeermethoden NA - HC\n            Gebruiker Preuss\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A723217
+TRANSP:OPAQUE
+UID:3081c85e-45d4-4056-8da6-5977462db98b@3081.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200113T141500Z
+DTEND:20200113T171500Z
+SUMMARY:[hertentame] 4081AN1NAT Analyse 1 NA TEN
+DESCRIPTION:4081AN1NAT Analyse 1 NA TEN\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730401
+TRANSP:OPAQUE
+UID:72b06e0b-7620-4f40-8eb5-106f4de126e5@72b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191128T141500Z
+DTEND:20191128T180000Z
+SUMMARY:[practicum] EN 3 groep b
+DESCRIPTION:EN 3 groep b\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728487
+TRANSP:OPAQUE
+UID:5d31c2df-0462-4ba9-9047-124c1a956301@5d31.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191010T141500Z
+DTEND:20191010T180000Z
+SUMMARY:[practicum] EN1 groep e
+DESCRIPTION:EN1 groep e\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728473
+TRANSP:OPAQUE
+UID:f89c84a3-be48-41ff-b1a4-fdc2eeed0aae@f89c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190926T141500Z
+DTEND:20190926T180000Z
+SUMMARY:[practicum] EN1 groep e
+DESCRIPTION:EN1 groep e\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728473
+TRANSP:OPAQUE
+UID:95eec58c-e4a3-4441-916f-fd7189f9fe27@95ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191008T141500Z
+DTEND:20191008T180000Z
+SUMMARY:[practicum] EN1 groep d
+DESCRIPTION:EN1 groep d\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728472
+TRANSP:OPAQUE
+UID:91be69b5-e490-4f79-8c7a-e9ab82a78e71@91be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200326T111500Z
+DTEND:20200326T130000Z
+SUMMARY:[colleges] 4061FVMT3H Fysica van Moderne Techn - HC
+DESCRIPTION:4061FVMT3H Fysica van Moderne Techn - HC\n            Gebruiker Loffler\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A722667
+TRANSP:OPAQUE
+UID:57c9da3b-1b95-4d23-93de-d2940ca9c699@57c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191021T130000Z
+DTEND:20191021T150000Z
+SUMMARY:[toets] 4081LA1NAT Lineaire algebra 1 NA TEN
+DESCRIPTION:4081LA1NAT Lineaire algebra 1 NA TEN\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A742519
+TRANSP:OPAQUE
+UID:7fbf48d7-7294-4db1-9fae-1a5f6c498250@7fbf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200519T111500Z
+DTEND:20200519T130000Z
+SUMMARY:[werkgroep/] 4061ELMGVW Elektr & Magnetische Velden WG
+DESCRIPTION:4061ELMGVW Elektr & Magnetische Velden WG\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717634
+TRANSP:OPAQUE
+UID:763e07b4-d652-414c-9f33-2893db04d5fe@763e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191202T141500Z
+DTEND:20191202T160000Z
+SUMMARY:[colleges] 4071ASTROH Inleiding Astrofysica - HC
+DESCRIPTION:4071ASTROH Inleiding Astrofysica - HC\n            Gebruiker Hoekstra\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716949
+TRANSP:OPAQUE
+UID:36d4b842-5223-46d7-858c-490ffa2d8fd4@36d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191204T141500Z
+DTEND:20191204T160000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716957
+TRANSP:OPAQUE
+UID:698ef8bd-08e1-4653-b9ab-096b4ce2adca@698e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191119T091500Z
+DTEND:20191119T110000Z
+SUMMARY:[colleges] 4031PRGR4H Programmeermethoden NA - HC
+DESCRIPTION:4031PRGR4H Programmeermethoden NA - HC\n            Gebruiker Preuss\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A723217
+TRANSP:OPAQUE
+UID:cbac5191-b015-4e45-99d7-9d55b5e28cde@cbac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191023T131500Z
+DTEND:20191023T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:b76b0a5d-f252-4f53-b58e-45b5c7ea45cc@b76b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191119T161500Z
+DTEND:20191119T180000Z
+SUMMARY:[werkgroep/] 4061OPTCAW Optica - WC
+DESCRIPTION:4061OPTCAW Optica - WC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717054
+TRANSP:OPAQUE
+UID:8f3bb92e-182a-4ece-a099-c063a75eae05@8f3b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200131T141500Z
+DTEND:20200131T171500Z
+SUMMARY:[hertentame] 4081LA1NAT Lineaire algebra 1 NA TEN
+DESCRIPTION:4081LA1NAT Lineaire algebra 1 NA TEN\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717297
+TRANSP:OPAQUE
+UID:fc1a6c44-30fe-4a17-91c8-1367b924fba2@fc1a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200603T161500Z
+DTEND:20200603T180000Z
+SUMMARY:[werkgroep/] 4061ELMGVW Elektr & Magnetische Velden WG
+DESCRIPTION:4061ELMGVW Elektr & Magnetische Velden WG\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717427
+TRANSP:OPAQUE
+UID:d23c49c3-0a2e-41e7-9ca7-e7d5df6af1d2@d23c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200124T141500Z
+DTEND:20200124T171500Z
+SUMMARY:[hertentame] 4071ASTROT Inleiding Astrofysica TEN
+DESCRIPTION:4071ASTROT Inleiding Astrofysica TEN\n            Gebruiker Hoekstra\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717279
+TRANSP:OPAQUE
+UID:297af3ef-ff92-40b1-950f-101f5cf6f363@297a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191209T141500Z
+DTEND:20191209T160000Z
+SUMMARY:[werkgroep/] 4081LA1NAW Lineaire Algebra 1NA - WG
+DESCRIPTION:4081LA1NAW Lineaire Algebra 1NA - WG\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A742452
+TRANSP:OPAQUE
+UID:45598ba8-d108-4f5d-b07f-dfebfa3e3c47@4559.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200406T111500Z
+DTEND:20200406T130000Z
+SUMMARY:[werkgroep/] 4081AN2NAW Analyse 2NA - WG
+DESCRIPTION:4081AN2NAW Analyse 2NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717345
+TRANSP:OPAQUE
+UID:3dc838be-3fba-403a-ae8e-c8745ad995e3@3dc8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200513T111500Z
+DTEND:20200513T130000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717353
+TRANSP:OPAQUE
+UID:0af88bc1-3f6f-41cd-b081-59aa016d8470@0af8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191210T141500Z
+DTEND:20191210T160000Z
+SUMMARY:[colleges] 4061OPTCAH Optica - HC
+DESCRIPTION:4061OPTCAH Optica - HC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717045
+TRANSP:OPAQUE
+UID:3b2d21e3-8192-4156-a0e4-9b10d2ddc689@3b2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200325T131500Z
+DTEND:20200325T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:9cebb4c7-e1a5-4602-a5b2-4c807c8d5213@9ceb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200520T131500Z
+DTEND:20200520T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:cb2fd13a-54ed-4069-a78f-3db4d233f4c5@cb2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191017T111500Z
+DTEND:20191017T130000Z
+SUMMARY:[werkgroep/] 4081LA1NAW Lineaire Algebra 1NA - WG
+DESCRIPTION:4081LA1NAW Lineaire Algebra 1NA - WG\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A742452
+TRANSP:OPAQUE
+UID:ea2c9371-0258-4bdc-8401-2608e7a4b099@ea2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191011T141500Z
+DTEND:20191011T180000Z
+SUMMARY:[practicum] EN1 groep a
+DESCRIPTION:EN1 groep a\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728474
+TRANSP:OPAQUE
+UID:fb02fba1-3740-40a3-a491-7c054f695ecc@fb02.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190917T091500Z
+DTEND:20190917T110000Z
+SUMMARY:[colleges] 4031PRGR4H Programmeermethoden NA - HC
+DESCRIPTION:4031PRGR4H Programmeermethoden NA - HC\n            Gebruiker Preuss\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A723217
+TRANSP:OPAQUE
+UID:8f97af0a-45aa-41ec-8dfd-cba149ede905@8f97.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200403T091500Z
+DTEND:20200403T110000Z
+SUMMARY:[colleges] 4061KLASAH Klassieke Mechanica a - HC
+DESCRIPTION:4061KLASAH Klassieke Mechanica a - HC\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717393
+TRANSP:OPAQUE
+UID:c5dfe0c6-fc11-405e-92d8-5e4146ec828e@c5df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200217T111500Z
+DTEND:20200217T130000Z
+SUMMARY:[werkgroep/] 4081AN2NAW Analyse 2NA - WG
+DESCRIPTION:4081AN2NAW Analyse 2NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717345
+TRANSP:OPAQUE
+UID:0a172551-2676-4510-8209-476c974d4594@0a17.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191016T111500Z
+DTEND:20191016T130000Z
+SUMMARY:[werkgroep/] 4061IMN06W Introductie Moderne Nat - WC
+DESCRIPTION:4061IMN06W Introductie Moderne Nat - WC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716967
+TRANSP:OPAQUE
+UID:d62dfeb4-b261-4afc-95f2-42695a96057b@d62d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200228T091500Z
+DTEND:20200228T110000Z
+SUMMARY:[colleges] 4061KLASAH Klassieke Mechanica a - HC
+DESCRIPTION:4061KLASAH Klassieke Mechanica a - HC\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717393
+TRANSP:OPAQUE
+UID:04b1e967-bc63-4a9a-9bdb-be54d725175f@04b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200326T111500Z
+DTEND:20200326T130000Z
+SUMMARY:[colleges] 4061FVLDPH Fysica van Leven - HC
+DESCRIPTION:4061FVLDPH Fysica van Leven - HC\n            Gebruiker Semrau\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717377
+TRANSP:OPAQUE
+UID:f546ceca-8369-4e29-b8b8-ed335642f203@f546.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200610T141500Z
+DTEND:20200610T180000Z
+SUMMARY:[werkgroep/] 4601PC11CW Presenteren & Communiceren -WG
+DESCRIPTION:4601PC11CW Presenteren & Communiceren -WG\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717469
+TRANSP:OPAQUE
+UID:7226b2d1-4a58-4032-8cc8-d821b0a96256@7226.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200602T111500Z
+DTEND:20200602T130000Z
+SUMMARY:[werkgroep/] 4061ELMGVW Elektr & Magnetische Velden WG
+DESCRIPTION:4061ELMGVW Elektr & Magnetische Velden WG\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717634
+TRANSP:OPAQUE
+UID:96b92e4a-178f-4ead-9581-411d0cd17df2@96b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200317T111500Z
+DTEND:20200317T130000Z
+SUMMARY:[werkgroep/] 4061ELMGVW Elektr & Magnetische Velden WG
+DESCRIPTION:4061ELMGVW Elektr & Magnetische Velden WG\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717634
+TRANSP:OPAQUE
+UID:78be4409-e18d-4bce-bbed-bb7272ff5bdd@78be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190916T091500Z
+DTEND:20190916T110000Z
+SUMMARY:[werkgroep/] 4081AN1NAW Analyse 1NA - WG
+DESCRIPTION:4081AN1NAW Analyse 1NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730804
+TRANSP:OPAQUE
+UID:dabdbb48-ae65-4ea4-bf85-89fe65487de9@dabd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190904T161500Z
+DTEND:20190904T180000Z
+SUMMARY:[colleges] Introductie 1 Experimentele Natuurkunde
+DESCRIPTION:Introductie 1 Experimentele Natuurkunde\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716958
+TRANSP:OPAQUE
+UID:7a920958-4f17-4612-aba2-7f5b54733f4d@7a92.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200520T111500Z
+DTEND:20200520T130000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717353
+TRANSP:OPAQUE
+UID:0c31abe9-8a13-4e91-96fe-3491733450ae@0c31.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200311T131500Z
+DTEND:20200311T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:5607a4e3-ba17-4023-ac63-b23a264c475b@5607.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200218T091500Z
+DTEND:20200218T110000Z
+SUMMARY:[colleges] 4061OPTCAH Optica - HC
+DESCRIPTION:4061OPTCAH Optica - HC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717059
+TRANSP:OPAQUE
+UID:2107e9d7-4abb-4ff8-86e6-cb28d8dfeb14@2107.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200407T111500Z
+DTEND:20200407T130000Z
+SUMMARY:[werkgroep/] 4061ELMGVW Elektr & Magnetische Velden WG
+DESCRIPTION:4061ELMGVW Elektr & Magnetische Velden WG\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717634
+TRANSP:OPAQUE
+UID:a5242678-084d-400c-a01a-c12a28be0b7b@a524.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200401T131500Z
+DTEND:20200401T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:d5f753f3-86ab-4472-b692-de63e9627cca@d5f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190924T141500Z
+DTEND:20190924T180000Z
+SUMMARY:[practicum] EN1 groep a
+DESCRIPTION:EN1 groep a\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728474
+TRANSP:OPAQUE
+UID:0039f5f4-657f-40a4-8a78-14ec86e1cce4@0039.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191114T111500Z
+DTEND:20191114T130000Z
+SUMMARY:[werkgroep/] 4081LA1NAW Lineaire Algebra 1NA - WG
+DESCRIPTION:4081LA1NAW Lineaire Algebra 1NA - WG\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A742452
+TRANSP:OPAQUE
+UID:e195892a-69e2-4680-95d6-ea6872d42823@e195.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191031T091500Z
+DTEND:20191031T110000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716959
+TRANSP:OPAQUE
+UID:162b1582-0a42-42ee-8e39-66d567fa2a76@162b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200225T111500Z
+DTEND:20200225T130000Z
+SUMMARY:[werkgroep/] 4061OPTCAW Optica - WC
+DESCRIPTION:4061OPTCAW Optica - WC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717062
+TRANSP:OPAQUE
+UID:9d0867e6-2284-40fc-a575-9548a23eb29f@9d08.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200408T111500Z
+DTEND:20200408T130000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717353
+TRANSP:OPAQUE
+UID:68eb80b8-439f-4e0e-961d-3ea2d1d322c5@68eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200318T111500Z
+DTEND:20200318T130000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717353
+TRANSP:OPAQUE
+UID:0277335e-e5ef-4b68-9ca7-f63203600ed2@0277.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191213T141500Z
+DTEND:20191213T180000Z
+SUMMARY:[practicum] EN 3 groep a
+DESCRIPTION:EN 3 groep a\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728485
+TRANSP:OPAQUE
+UID:9f302f26-f82c-4b0d-80b3-2e9b992554d6@9f30.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191120T141500Z
+DTEND:20191120T160000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716957
+TRANSP:OPAQUE
+UID:7657f5c9-d3e8-4f71-96c1-3c33e93d828f@7657.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200327T091500Z
+DTEND:20200327T110000Z
+SUMMARY:[colleges] 4061KLASAH Klassieke Mechanica a - HC
+DESCRIPTION:4061KLASAH Klassieke Mechanica a - HC\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717393
+TRANSP:OPAQUE
+UID:97a9f51a-e93e-4c89-ba85-17cf5d7524ba@97a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191017T141500Z
+DTEND:20191017T180000Z
+SUMMARY:[practicum] EN1 groep d
+DESCRIPTION:EN1 groep d\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728472
+TRANSP:OPAQUE
+UID:a37c7300-ddd9-472b-abd9-6fe537695e4d@a37c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191219T141500Z
+DTEND:20191219T180000Z
+SUMMARY:[werkgroep/] 4601PC11CW Presenteren & Communiceren -WG
+DESCRIPTION:4601PC11CW Presenteren & Communiceren -WG\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717131
+TRANSP:OPAQUE
+UID:873e53e8-a8e8-4cb7-9c8a-6745519e758c@873e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191122T161500Z
+DTEND:20191122T180000Z
+SUMMARY:[colleges] Introductie Presenteren en Communiceren
+DESCRIPTION:Introductie Presenteren en Communiceren\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717040
+TRANSP:OPAQUE
+UID:19093efb-0281-497e-b09a-f689f7b24238@1909.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200214T091500Z
+DTEND:20200214T110000Z
+SUMMARY:[colleges] 4061KLASAH Klassieke Mechanica a - HC
+DESCRIPTION:4061KLASAH Klassieke Mechanica a - HC\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717393
+TRANSP:OPAQUE
+UID:0681f6d0-e9ad-4d3b-9d58-5ccc2ef6534a@0681.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200526T141500Z
+DTEND:20200526T180000Z
+SUMMARY:[werkgroep/] 4071PRST6W Praktische Sterrenkunde - WG
+DESCRIPTION:4071PRST6W Praktische Sterrenkunde - WG\n            Gebruiker van Langevelde\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717316
+TRANSP:OPAQUE
+UID:4c63b6d4-016e-4017-8525-5d8bbb9c77f2@4c63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191107T111500Z
+DTEND:20191107T130000Z
+SUMMARY:[werkgroep/] 4081LA1NAW Lineaire Algebra 1NA - WG
+DESCRIPTION:4081LA1NAW Lineaire Algebra 1NA - WG\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A742452
+TRANSP:OPAQUE
+UID:530c3220-ebae-458b-a2e2-26db439d5e4a@530c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191121T111500Z
+DTEND:20191121T130000Z
+SUMMARY:[werkgroep/] 4081LA1NAW Lineaire Algebra 1NA - WG
+DESCRIPTION:4081LA1NAW Lineaire Algebra 1NA - WG\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A742452
+TRANSP:OPAQUE
+UID:51c4656e-abfc-47f6-908a-8940b27aeeec@51c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191104T141500Z
+DTEND:20191104T160000Z
+SUMMARY:[colleges] 4071ASTROH Inleiding Astrofysica - HC
+DESCRIPTION:4071ASTROH Inleiding Astrofysica - HC\n            Gebruiker Hoekstra\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A736734
+TRANSP:OPAQUE
+UID:6b17c434-bdf7-457a-a0b8-2662bf6dad4e@6b17.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200421T111500Z
+DTEND:20200421T130000Z
+SUMMARY:[toets] 4061ELMGVT Elektrische en Magnetische Vel
+DESCRIPTION:4061ELMGVT Elektrische en Magnetische Vel\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A734130
+TRANSP:OPAQUE
+UID:ba892714-a512-477f-9b88-98e6018441ca@ba89.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191108T141500Z
+DTEND:20191108T180000Z
+SUMMARY:[practicum] EN 2 groep a
+DESCRIPTION:EN 2 groep a\n            Gebruiker Martin van Hecke\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728483
+TRANSP:OPAQUE
+UID:9fa0e255-c684-4e12-b2ec-cc1f6a454f09@9fa0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200416T111500Z
+DTEND:20200416T130000Z
+SUMMARY:[colleges] 4061FVLDPH Fysica van Leven - HC
+DESCRIPTION:4061FVLDPH Fysica van Leven - HC\n            Gebruiker Semrau\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717377
+TRANSP:OPAQUE
+UID:8ab38ccd-99ce-4664-88c9-83ad69581838@8ab3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191128T091500Z
+DTEND:20191128T110000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716959
+TRANSP:OPAQUE
+UID:19424eac-287b-4d34-9283-74ac916ab1f4@1942.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200212T131500Z
+DTEND:20200212T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:ff80c4cb-0893-4057-a13e-a2a7e792a59d@ff80.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200319T111500Z
+DTEND:20200319T130000Z
+SUMMARY:[colleges] 4061FVMT3H Fysica van Moderne Techn - HC
+DESCRIPTION:4061FVMT3H Fysica van Moderne Techn - HC\n            Gebruiker Loffler\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A722667
+TRANSP:OPAQUE
+UID:0b1da1af-9ef3-4569-be7b-80a3a1d07a76@0b1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191009T161500Z
+DTEND:20191009T180000Z
+SUMMARY:[werkgroep/] 4071ASTROW Inleiding Astrofysica - WG
+DESCRIPTION:4071ASTROW Inleiding Astrofysica - WG\n            Gebruiker Hoekstra\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716997
+TRANSP:OPAQUE
+UID:d580ce52-d20d-4589-b6f6-e594ce79ee0d@d580.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200414T141500Z
+DTEND:20200414T160000Z
+SUMMARY:[colleges] Introductie Presenteren en Communiceren
+DESCRIPTION:Introductie Presenteren en Communiceren\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717436
+TRANSP:OPAQUE
+UID:4121a351-a049-49ca-a0a7-503ebd6aa41e@4121.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200609T091500Z
+DTEND:20200609T110000Z
+SUMMARY:[colleges] 4061ELMGVH Elektr & Magnetische Velden HC
+DESCRIPTION:4061ELMGVH Elektr & Magnetische Velden HC\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717629
+TRANSP:OPAQUE
+UID:943bc477-b4cd-495e-8132-3f86a4c8ddf9@943b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190919T141500Z
+DTEND:20190919T180000Z
+SUMMARY:[practicum] EN1 groep d
+DESCRIPTION:EN1 groep d\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728472
+TRANSP:OPAQUE
+UID:df1b6ccb-6c7d-4b11-828d-2863534695f3@df1b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191204T161500Z
+DTEND:20191204T180000Z
+SUMMARY:[colleges] Introductie 4 Experimentele Natuurkunde
+DESCRIPTION:Introductie 4 Experimentele Natuurkunde\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717028
+TRANSP:OPAQUE
+UID:1c0aef94-d546-4454-92ad-1393a86c13f7@1c0a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200423T141500Z
+DTEND:20200423T171500Z
+SUMMARY:[hertentame] 4061OPTCAT Optica TEN
+DESCRIPTION:4061OPTCAT Optica TEN\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717500
+TRANSP:OPAQUE
+UID:0cdeecdb-a039-4a58-9c0c-52f4ea53728b@0cde.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200210T131500Z
+DTEND:20200210T140000Z
+SUMMARY:[colleges] 4061DIFF3H Diffusie - HC
+DESCRIPTION:4061DIFF3H Diffusie - HC\n            Gebruiker van Noort\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717355
+TRANSP:OPAQUE
+UID:f21425d6-120f-49c8-8299-86fa9677e963@f214.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191029T141500Z
+DTEND:20191029T180000Z
+SUMMARY:[practicum] EN 2 groep a
+DESCRIPTION:EN 2 groep a\n            Gebruiker Martin van Hecke\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728483
+TRANSP:OPAQUE
+UID:d833cd8d-a9c3-4e4a-8038-e8600150ab9e@d833.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200227T111500Z
+DTEND:20200227T130000Z
+SUMMARY:[colleges] 4061FVMT3H Fysica van Moderne Techn - HC
+DESCRIPTION:4061FVMT3H Fysica van Moderne Techn - HC\n            Gebruiker Loffler\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A722667
+TRANSP:OPAQUE
+UID:8b8c6c2c-eab9-4c47-8564-c5fa7f4259ae@8b8c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200528T091500Z
+DTEND:20200528T130000Z
+SUMMARY:[werkgroep/] 4601PC11CW Presenteren & Communiceren -WG
+DESCRIPTION:4601PC11CW Presenteren & Communiceren -WG\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717456
+TRANSP:OPAQUE
+UID:105994b6-e3ce-4281-a7d0-2954cb01646b@1059.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191202T161500Z
+DTEND:20191202T170000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716964
+TRANSP:OPAQUE
+UID:b59e78f8-4fa3-45bc-bc76-1641d00f4c97@b59e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191204T091500Z
+DTEND:20191204T110000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716965
+TRANSP:OPAQUE
+UID:bdab959a-3eec-4e77-8c8d-4afedc166e92@bdab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200330T091500Z
+DTEND:20200330T110000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717326
+TRANSP:OPAQUE
+UID:6ddddd57-3310-448d-bab4-d2382a56bde3@6ddd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200219T131500Z
+DTEND:20200219T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:9b50b8ec-5a85-4a14-b4ba-fcf45803da8e@9b50.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191105T091500Z
+DTEND:20191105T110000Z
+SUMMARY:[colleges] 4031PRGR4H Programmeermethoden NA - HC
+DESCRIPTION:4031PRGR4H Programmeermethoden NA - HC\n            Gebruiker Preuss\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A723217
+TRANSP:OPAQUE
+UID:f46f2b2b-0bbb-4420-a6b5-50c5ab06a5aa@f46f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200211T141500Z
+DTEND:20200211T180000Z
+SUMMARY:[werkgroep/] 4071PRST6W Praktische Sterrenkunde - WG
+DESCRIPTION:4071PRST6W Praktische Sterrenkunde - WG\n            Gebruiker van Langevelde\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717316
+TRANSP:OPAQUE
+UID:6b3a02b9-6fed-411a-855f-0bc57ee4e1c5@6b3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191017T091500Z
+DTEND:20191017T110000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716959
+TRANSP:OPAQUE
+UID:b558c5e1-53e0-4b35-a43b-02878673a79e@b558.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200501T111500Z
+DTEND:20200501T130000Z
+SUMMARY:[werkgroep/] 4061KLASAW Klassieke Mechanica a - WG
+DESCRIPTION:4061KLASAW Klassieke Mechanica a - WG\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717400
+TRANSP:OPAQUE
+UID:16e56336-35ae-4838-b1bf-805873a6bbeb@16e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191030T111500Z
+DTEND:20191030T130000Z
+SUMMARY:[werkgroep/] 4061IMN06W Introductie Moderne Nat - WC
+DESCRIPTION:4061IMN06W Introductie Moderne Nat - WC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716967
+TRANSP:OPAQUE
+UID:ca8886e4-844a-495c-a23e-feb5b9d638f7@ca88.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190904T091500Z
+DTEND:20190904T110000Z
+SUMMARY:[bijeenkoms] Introductie 1 Experimentele Natuurkunde
+DESCRIPTION:Introductie 1 Experimentele Natuurkunde\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A736731
+TRANSP:OPAQUE
+UID:3679fa39-cc75-45a3-b0ef-e20adcf6b78c@3679.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200211T091500Z
+DTEND:20200211T110000Z
+SUMMARY:[colleges] 4061OPTCAH Optica - HC
+DESCRIPTION:4061OPTCAH Optica - HC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717059
+TRANSP:OPAQUE
+UID:aa4a2177-f001-4749-8c18-575a5fcae122@aa4a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200612T141500Z
+DTEND:20200612T171500Z
+SUMMARY:[tentamen] 4081AN2NAT Analyse 2 NA TEN
+DESCRIPTION:4081AN2NAT Analyse 2 NA TEN\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717543
+TRANSP:OPAQUE
+UID:ea0e3e00-acd3-47e3-a2d7-82082c9e0723@ea0e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200515T091500Z
+DTEND:20200515T110000Z
+SUMMARY:[colleges] 4061KLASAH Klassieke Mechanica a - HC
+DESCRIPTION:4061KLASAH Klassieke Mechanica a - HC\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717393
+TRANSP:OPAQUE
+UID:a0f8d3fb-650e-49b0-9394-ca2d8a303896@a0f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191118T161500Z
+DTEND:20191118T170000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716964
+TRANSP:OPAQUE
+UID:49183110-fb28-4655-94a4-2cef9bcbaf3d@4918.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190916T161500Z
+DTEND:20190916T170000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716964
+TRANSP:OPAQUE
+UID:9f606c50-eed1-4418-ba4b-6b896af7eb81@9f60.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191106T091500Z
+DTEND:20191106T110000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716965
+TRANSP:OPAQUE
+UID:b77970d0-549b-413d-b430-2dc5cb12fc75@b779.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200330T141500Z
+DTEND:20200330T160000Z
+SUMMARY:[colleges] 4071PLST3H Planetenstelsels - HC
+DESCRIPTION:4071PLST3H Planetenstelsels - HC\n            Gebruiker Brown\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717362
+TRANSP:OPAQUE
+UID:ed05b670-1795-4fff-9ae2-ba1920a1fa1e@ed05.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191111T091500Z
+DTEND:20191111T110000Z
+SUMMARY:[werkgroep/] 4081AN1NAW Analyse 1NA - WG
+DESCRIPTION:4081AN1NAW Analyse 1NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730804
+TRANSP:OPAQUE
+UID:0c214a40-29f7-4c3d-a499-197b02c44845@0c21.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200317T091500Z
+DTEND:20200317T110000Z
+SUMMARY:[colleges] 4061ELMGVH Elektr & Magnetische Velden HC
+DESCRIPTION:4061ELMGVH Elektr & Magnetische Velden HC\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717629
+TRANSP:OPAQUE
+UID:b717325b-3950-417c-a363-5cb619525ace@b717.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191120T091500Z
+DTEND:20191120T110000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716965
+TRANSP:OPAQUE
+UID:2c57f467-f878-43a9-bfc5-e96a64ad3dca@2c57.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200217T141500Z
+DTEND:20200217T160000Z
+SUMMARY:[colleges] 4071PLST3H Planetenstelsels - HC
+DESCRIPTION:4071PLST3H Planetenstelsels - HC\n            Gebruiker Brown\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717362
+TRANSP:OPAQUE
+UID:d77c0683-d708-4388-9233-0018859d2575@d77c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191216T101500Z
+DTEND:20191216T131500Z
+SUMMARY:[tentamen] 4081AN1NAT Analyse 1 NA TEN
+DESCRIPTION:4081AN1NAT Analyse 1 NA TEN\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730374
+TRANSP:OPAQUE
+UID:a3c9d2bb-3d4a-425d-9b33-4f14ee6209d4@a3c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191205T141500Z
+DTEND:20191205T180000Z
+SUMMARY:[practicum] EN 3 groep b
+DESCRIPTION:EN 3 groep b\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728487
+TRANSP:OPAQUE
+UID:bff5cd4d-1dc9-4354-8b0c-779d735a3502@bff5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200327T111500Z
+DTEND:20200327T130000Z
+SUMMARY:[werkgroep/] 4061KLASAW Klassieke Mechanica a - WG
+DESCRIPTION:4061KLASAW Klassieke Mechanica a - WG\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717400
+TRANSP:OPAQUE
+UID:1bc102e0-e135-4632-a3ba-20b20e5ed7ee@1bc1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200210T141500Z
+DTEND:20200210T160000Z
+SUMMARY:[colleges] 4071PLST3H Planetenstelsels - HC
+DESCRIPTION:4071PLST3H Planetenstelsels - HC\n            Gebruiker Brown\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717362
+TRANSP:OPAQUE
+UID:ef96d37a-3b62-4799-83d9-a2d47dc9442c@ef96.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200525T111500Z
+DTEND:20200525T130000Z
+SUMMARY:[werkgroep/] 4081AN2NAW Analyse 2NA - WG
+DESCRIPTION:4081AN2NAW Analyse 2NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717345
+TRANSP:OPAQUE
+UID:a3e3c018-ca4a-4381-a42c-fffd3ecc2d44@a3e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191016T131500Z
+DTEND:20191016T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:edc0ef09-dbf1-405d-8c1f-e150a5fe77a2@edc0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191204T111500Z
+DTEND:20191204T130000Z
+SUMMARY:[werkgroep/] 4061IMN06W Introductie Moderne Nat - WC
+DESCRIPTION:4061IMN06W Introductie Moderne Nat - WC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716967
+TRANSP:OPAQUE
+UID:74442b4d-ff60-4397-b0d4-1acad20888a3@7444.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191112T141500Z
+DTEND:20191112T160000Z
+SUMMARY:[colleges] 4061OPTCAH Optica - HC
+DESCRIPTION:4061OPTCAH Optica - HC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717045
+TRANSP:OPAQUE
+UID:f18298ea-f0c2-455f-ae23-0f7cafa4c0fe@f182.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200420T091500Z
+DTEND:20200420T110000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717326
+TRANSP:OPAQUE
+UID:bf50a812-508b-44aa-974f-7c9c6c518bc5@bf50.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200305T111500Z
+DTEND:20200305T130000Z
+SUMMARY:[colleges] 4061FVMT3H Fysica van Moderne Techn - HC
+DESCRIPTION:4061FVMT3H Fysica van Moderne Techn - HC\n            Gebruiker Loffler\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A722667
+TRANSP:OPAQUE
+UID:80899df9-87f7-4f3f-953f-bf0ccb09a07f@8089.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200602T091500Z
+DTEND:20200602T110000Z
+SUMMARY:[colleges] 4061ELMGVH Elektr & Magnetische Velden HC
+DESCRIPTION:4061ELMGVH Elektr & Magnetische Velden HC\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717629
+TRANSP:OPAQUE
+UID:9e69e3e9-b706-44f1-a6b3-2603296b2974@9e69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190913T091500Z
+DTEND:20190913T130000Z
+SUMMARY:[practicum] EN1 groep b
+DESCRIPTION:EN1 groep b\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728464
+TRANSP:OPAQUE
+UID:5851bf8a-e8ba-4085-b239-7485a0cbaf21@5851.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200204T091500Z
+DTEND:20200204T110000Z
+SUMMARY:[colleges] 4061OPTCAH Optica - HC
+DESCRIPTION:4061OPTCAH Optica - HC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717059
+TRANSP:OPAQUE
+UID:cf82f8e7-e334-4356-bae5-d6560ba3d1f1@cf82.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191203T091500Z
+DTEND:20191203T110000Z
+SUMMARY:[colleges] 4031PRGR4H Programmeermethoden NA - HC
+DESCRIPTION:4031PRGR4H Programmeermethoden NA - HC\n            Gebruiker Preuss\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A723217
+TRANSP:OPAQUE
+UID:e8e212cc-fcb3-409a-a172-43ef9ecbd21f@e8e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200417T111500Z
+DTEND:20200417T130000Z
+SUMMARY:[werkgroep/] 4061KLASAW Klassieke Mechanica a - WG
+DESCRIPTION:4061KLASAW Klassieke Mechanica a - WG\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717400
+TRANSP:OPAQUE
+UID:00025e7c-d5d1-4768-81e8-033c9ebf42b6@0002.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191008T091500Z
+DTEND:20191008T110000Z
+SUMMARY:[colleges] 4031PRGR4H Programmeermethoden NA - HC
+DESCRIPTION:4031PRGR4H Programmeermethoden NA - HC\n            Gebruiker Preuss\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A723217
+TRANSP:OPAQUE
+UID:0a143a26-65be-49a6-b1aa-6e984fea18d0@0a14.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200316T091500Z
+DTEND:20200316T110000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717326
+TRANSP:OPAQUE
+UID:99276d0f-991e-4661-b050-a6a787813739@9927.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190903T091500Z
+DTEND:20190903T110000Z
+SUMMARY:[bijeenkoms] Introductie 1 Experimentele Natuurkunde
+DESCRIPTION:Introductie 1 Experimentele Natuurkunde\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A736731
+TRANSP:OPAQUE
+UID:a68307e4-c970-46e1-b3f7-29f6399f4193@a683.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200225T091500Z
+DTEND:20200225T110000Z
+SUMMARY:[colleges] 4061OPTCAH Optica - HC
+DESCRIPTION:4061OPTCAH Optica - HC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717059
+TRANSP:OPAQUE
+UID:1e826ae0-f0dd-431a-8295-17d9786eb771@1e82.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191030T141500Z
+DTEND:20191030T160000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716957
+TRANSP:OPAQUE
+UID:51999f61-e7da-42f9-a8d3-af030a274e6b@5199.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200213T111500Z
+DTEND:20200213T130000Z
+SUMMARY:[colleges] 4061FVMT3H Fysica van Moderne Techn - HC
+DESCRIPTION:4061FVMT3H Fysica van Moderne Techn - HC\n            Gebruiker Loffler\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A722667
+TRANSP:OPAQUE
+UID:de63875b-bc8e-4d45-85cc-daf482418eb2@de63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200224T141500Z
+DTEND:20200224T160000Z
+SUMMARY:[colleges] 4071PLST3H Planetenstelsels - HC
+DESCRIPTION:4071PLST3H Planetenstelsels - HC\n            Gebruiker Brown\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717362
+TRANSP:OPAQUE
+UID:22ed45a0-aa72-4ee3-8d4d-30cc82112c32@22ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200316T111500Z
+DTEND:20200316T130000Z
+SUMMARY:[werkgroep/] 4081AN2NAW Analyse 2NA - WG
+DESCRIPTION:4081AN2NAW Analyse 2NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717345
+TRANSP:OPAQUE
+UID:9aa297be-776f-40de-9a76-7c9baa8556e4@9aa2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200421T141500Z
+DTEND:20200421T180000Z
+SUMMARY:[werkgroep/] 4071PRST6W Praktische Sterrenkunde - WG
+DESCRIPTION:4071PRST6W Praktische Sterrenkunde - WG\n            Gebruiker van Langevelde\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717316
+TRANSP:OPAQUE
+UID:763a17aa-5ab8-4146-90fb-df2add134105@763a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191125T111500Z
+DTEND:20191125T130000Z
+SUMMARY:[colleges] 4081LA1NAH Lineaire Algebra 1NA - HC
+DESCRIPTION:4081LA1NAH Lineaire Algebra 1NA - HC\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716947
+TRANSP:OPAQUE
+UID:df526d60-32f8-42ee-a777-0ba91fab3fc0@df52.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200409T111500Z
+DTEND:20200409T130000Z
+SUMMARY:[colleges] 4061FVLDPH Fysica van Leven - HC
+DESCRIPTION:4061FVLDPH Fysica van Leven - HC\n            Gebruiker Semrau\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717377
+TRANSP:OPAQUE
+UID:beac6726-5a6e-4efb-8e70-46b326717c31@beac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200518T091500Z
+DTEND:20200518T110000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717326
+TRANSP:OPAQUE
+UID:78383b8d-e29a-4bb2-bb71-53b607edca54@7838.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200218T111500Z
+DTEND:20200218T130000Z
+SUMMARY:[werkgroep/] 4061OPTCAW Optica - WC
+DESCRIPTION:4061OPTCAW Optica - WC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717062
+TRANSP:OPAQUE
+UID:8313f580-bf0d-422c-9666-894166520ea5@8313.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200129T111500Z
+DTEND:20200129T130000Z
+SUMMARY:[toets] 4061OPTCAT Optica TEN
+DESCRIPTION:4061OPTCAT Optica TEN\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A742529
+TRANSP:OPAQUE
+UID:e7871653-4b14-4722-9ba6-0985da4acde9@e787.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200501T091500Z
+DTEND:20200501T110000Z
+SUMMARY:[colleges] 4061KLASAH Klassieke Mechanica a - HC
+DESCRIPTION:4061KLASAH Klassieke Mechanica a - HC\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717393
+TRANSP:OPAQUE
+UID:7e08556f-0882-4010-ac2c-c27f9ee38694@7e08.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200408T131500Z
+DTEND:20200408T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:c0c7a13c-092b-49a2-a16b-0d2b4a56374c@c0c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191217T091500Z
+DTEND:20191217T130000Z
+SUMMARY:[werkgroep/] 4601PC11CW Presenteren & Communiceren -WG
+DESCRIPTION:4601PC11CW Presenteren & Communiceren -WG\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717083
+TRANSP:OPAQUE
+UID:9bd02e8e-2039-4018-b3f1-04a41ac89e24@9bd0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191120T131500Z
+DTEND:20191120T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:d3c42fa2-a9e8-48e3-a8f2-6cba118f4d5a@d3c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200227T111500Z
+DTEND:20200227T130000Z
+SUMMARY:[colleges] 4061FVLDPH Fysica van Leven - HC
+DESCRIPTION:4061FVLDPH Fysica van Leven - HC\n            Gebruiker Semrau\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717377
+TRANSP:OPAQUE
+UID:8757b486-c4c3-484b-9f92-a243620c10f0@8757.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200402T111500Z
+DTEND:20200402T130000Z
+SUMMARY:[colleges] 4061FVMT3H Fysica van Moderne Techn - HC
+DESCRIPTION:4061FVMT3H Fysica van Moderne Techn - HC\n            Gebruiker Loffler\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A722667
+TRANSP:OPAQUE
+UID:ecb3370b-107f-403a-a18c-0a116b3fff1f@ecb3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191030T131500Z
+DTEND:20191030T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:6a1856c3-45cd-4c46-a065-1da70a31eded@6a18.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200319T111500Z
+DTEND:20200319T130000Z
+SUMMARY:[colleges] 4061FVLDPH Fysica van Leven - HC
+DESCRIPTION:4061FVLDPH Fysica van Leven - HC\n            Gebruiker Semrau\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717377
+TRANSP:OPAQUE
+UID:dfc84a4f-9682-4a19-9fee-95f3481a53c3@dfc8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200302T091500Z
+DTEND:20200302T110000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717326
+TRANSP:OPAQUE
+UID:39789c69-40eb-45be-8247-a8f5b6f5be37@3978.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200609T111500Z
+DTEND:20200609T130000Z
+SUMMARY:[werkgroep/] 4061ELMGVW Elektr & Magnetische Velden WG
+DESCRIPTION:4061ELMGVW Elektr & Magnetische Velden WG\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717634
+TRANSP:OPAQUE
+UID:da401f6a-4c8d-42f7-9756-f0a3540e888d@da40.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191014T161500Z
+DTEND:20191014T170000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716964
+TRANSP:OPAQUE
+UID:828ca5a9-643f-4da1-8b6b-9d4ef1e21974@828c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190925T091500Z
+DTEND:20190925T110000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716965
+TRANSP:OPAQUE
+UID:5e15cbaa-394a-41b8-9c2c-6426c19b84c2@5e15.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200424T111500Z
+DTEND:20200424T130000Z
+SUMMARY:[werkgroep/] 4061KLASAW Klassieke Mechanica a - WG
+DESCRIPTION:4061KLASAW Klassieke Mechanica a - WG\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717400
+TRANSP:OPAQUE
+UID:4cd294d5-569d-493c-adbd-a730e1797336@4cd2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191009T111500Z
+DTEND:20191009T130000Z
+SUMMARY:[werkgroep/] 4061IMN06W Introductie Moderne Nat - WC
+DESCRIPTION:4061IMN06W Introductie Moderne Nat - WC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716967
+TRANSP:OPAQUE
+UID:c2a612cd-b248-4295-a890-359bb325ed91@c2a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200228T111500Z
+DTEND:20200228T130000Z
+SUMMARY:[werkgroep/] 4061KLASAW Klassieke Mechanica a - WG
+DESCRIPTION:4061KLASAW Klassieke Mechanica a - WG\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717400
+TRANSP:OPAQUE
+UID:4b008cc1-8838-48e0-bb7b-fbb566005dc8@4b00.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191125T141500Z
+DTEND:20191125T160000Z
+SUMMARY:[colleges] 4071ASTROH Inleiding Astrofysica - HC
+DESCRIPTION:4071ASTROH Inleiding Astrofysica - HC\n            Gebruiker Hoekstra\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A736734
+TRANSP:OPAQUE
+UID:a9552917-373f-45b1-848e-f22fb7984fe0@a955.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191127T111500Z
+DTEND:20191127T130000Z
+SUMMARY:[werkgroep/] 4061IMN06W Introductie Moderne Nat - WC
+DESCRIPTION:4061IMN06W Introductie Moderne Nat - WC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716967
+TRANSP:OPAQUE
+UID:638703aa-4c6c-4bd0-9019-c4625f828c09@6387.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200615T141500Z
+DTEND:20200615T174500Z
+SUMMARY:[hertentame] 4061FVLDPT Fysica van Leven (van DNA ..)
+DESCRIPTION:4061FVLDPT Fysica van Leven (van DNA ..)\n            Gebruiker Semrau\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717529
+TRANSP:OPAQUE
+UID:348b5b06-9a06-4512-aa00-ed95748c304a@348b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200226T131500Z
+DTEND:20200226T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:60148712-bdba-41f1-925e-76a3acb89baf@6014.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200401T111500Z
+DTEND:20200401T130000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717353
+TRANSP:OPAQUE
+UID:0ed43f52-0128-4f20-95bb-d152653cbc3f@0ed4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200507T141500Z
+DTEND:20200507T171500Z
+SUMMARY:[tentamen] 4071PLST3T Planetenstelsels
+DESCRIPTION:4071PLST3T Planetenstelsels\n            Gebruiker Brown\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730481
+TRANSP:OPAQUE
+UID:e499947b-bbb3-413b-8688-adf6882a9144@e499.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191111T161500Z
+DTEND:20191111T170000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716964
+TRANSP:OPAQUE
+UID:cc2abb9f-5cf2-4496-a408-151c0ba2c32b@cc2a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200508T111500Z
+DTEND:20200508T130000Z
+SUMMARY:[werkgroep/] 4061KLASAW Klassieke Mechanica a - WG
+DESCRIPTION:4061KLASAW Klassieke Mechanica a - WG\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717400
+TRANSP:OPAQUE
+UID:a9ebaefc-7729-45d2-abeb-710e840064f4@a9eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191001T141500Z
+DTEND:20191001T180000Z
+SUMMARY:[practicum] EN1 groep c
+DESCRIPTION:EN1 groep c\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728470
+TRANSP:OPAQUE
+UID:f707169a-b8e3-445d-a59b-c85100aaaaaf@f707.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191122T091500Z
+DTEND:20191122T130000Z
+SUMMARY:[practicum] EN 2 groep b
+DESCRIPTION:EN 2 groep b\n            Gebruiker Martin van Hecke\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728484
+TRANSP:OPAQUE
+UID:8d424e42-c5ce-4bbe-9fd9-736168802f0c@8d42.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190925T141500Z
+DTEND:20190925T160000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716957
+TRANSP:OPAQUE
+UID:7f7133fa-1f6b-4522-b848-012c876f58be@7f71.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200316T141500Z
+DTEND:20200316T160000Z
+SUMMARY:[colleges] 4071PLST3H Planetenstelsels - HC
+DESCRIPTION:4071PLST3H Planetenstelsels - HC\n            Gebruiker Brown\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717362
+TRANSP:OPAQUE
+UID:5d511e1b-d70c-4647-80d5-7a66afae8fb5@5d51.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191106T141500Z
+DTEND:20191106T160000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716957
+TRANSP:OPAQUE
+UID:4fb6f7ce-66ea-42c7-b980-ebc223fb9fb7@4fb6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200224T131500Z
+DTEND:20200224T140000Z
+SUMMARY:[colleges] 4061DIFF3H Diffusie - HC
+DESCRIPTION:4061DIFF3H Diffusie - HC\n            Gebruiker van Noort\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717355
+TRANSP:OPAQUE
+UID:ca17d4e8-58e6-4552-ba3a-f347108225af@ca17.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200422T090000Z
+DTEND:20200422T110000Z
+SUMMARY:[toets] 4081AN2NAT Analyse 2 NA TEN
+DESCRIPTION:4081AN2NAT Analyse 2 NA TEN\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A742525
+TRANSP:OPAQUE
+UID:153bea4f-c4e6-485b-be71-ed82cc42ea0d@153b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190918T111500Z
+DTEND:20190918T130000Z
+SUMMARY:[werkgroep/] 4061IMN06W Introductie Moderne Nat - WC
+DESCRIPTION:4061IMN06W Introductie Moderne Nat - WC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716967
+TRANSP:OPAQUE
+UID:9964fe4d-be71-437d-aed7-c706a25b7683@9964.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190925T131500Z
+DTEND:20190925T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:51ad5992-3471-462f-92c9-793ac5341a41@51ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190926T091500Z
+DTEND:20190926T110000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716959
+TRANSP:OPAQUE
+UID:36f4cd97-6058-4855-a7d5-f9875c923929@36f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200213T111500Z
+DTEND:20200213T130000Z
+SUMMARY:[colleges] 4061FVLDPH Fysica van Leven - HC
+DESCRIPTION:4061FVLDPH Fysica van Leven - HC\n            Gebruiker Semrau\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717377
+TRANSP:OPAQUE
+UID:f194e4fe-1b61-4c74-830a-e69144c6d1fd@f194.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200331T111500Z
+DTEND:20200331T130000Z
+SUMMARY:[werkgroep/] 4061ELMGVW Elektr & Magnetische Velden WG
+DESCRIPTION:4061ELMGVW Elektr & Magnetische Velden WG\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717634
+TRANSP:OPAQUE
+UID:260e7fc4-cf26-4d36-8959-8ac23ddc2231@260e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190911T111500Z
+DTEND:20190911T130000Z
+SUMMARY:[werkgroep/] 4061IMN06W Introductie Moderne Nat - WC
+DESCRIPTION:4061IMN06W Introductie Moderne Nat - WC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716967
+TRANSP:OPAQUE
+UID:5800c6c7-927b-41ad-bfe5-80fb08dab15f@5800.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191029T091500Z
+DTEND:20191029T110000Z
+SUMMARY:[colleges] 4031PRGR4H Programmeermethoden NA - HC
+DESCRIPTION:4031PRGR4H Programmeermethoden NA - HC\n            Gebruiker Preuss\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A723217
+TRANSP:OPAQUE
+UID:801e2786-831c-4dca-99bb-5e134cb7222d@801e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200323T111500Z
+DTEND:20200323T130000Z
+SUMMARY:[werkgroep/] 4081AN2NAW Analyse 2NA - WG
+DESCRIPTION:4081AN2NAW Analyse 2NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717345
+TRANSP:OPAQUE
+UID:e2c8e2ec-4e96-41dc-95bf-46e0cb6e3d61@e2c8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190912T141500Z
+DTEND:20190912T180000Z
+SUMMARY:[practicum] EN1 groep e
+DESCRIPTION:EN1 groep e\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728473
+TRANSP:OPAQUE
+UID:0f14f6fb-70dc-4774-ba05-4020e33643af@0f14.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191002T141500Z
+DTEND:20191002T160000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716957
+TRANSP:OPAQUE
+UID:668bc47c-6cd5-49fb-8fdd-35286acf8924@668b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200212T111500Z
+DTEND:20200212T130000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717353
+TRANSP:OPAQUE
+UID:d711e212-fe5f-4b6c-abf0-b016de546ede@d711.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190909T161500Z
+DTEND:20190909T170000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716964
+TRANSP:OPAQUE
+UID:10f2897e-7bde-4a8b-b533-db527494405c@10f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190905T111500Z
+DTEND:20190905T130000Z
+SUMMARY:[werkgroep/] 4081LA1NAW Lineaire Algebra 1NA - WG
+DESCRIPTION:4081LA1NAW Lineaire Algebra 1NA - WG\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A742452
+TRANSP:OPAQUE
+UID:23731d8e-ce85-44af-bcf2-24b76f6e988e@2373.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191220T091500Z
+DTEND:20191220T130000Z
+SUMMARY:[werkgroep/] 4601PC11CW Presenteren & Communiceren -WG
+DESCRIPTION:4601PC11CW Presenteren & Communiceren -WG\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717135
+TRANSP:OPAQUE
+UID:b4df3d4a-f4d9-478e-ab81-352cfff4395b@b4df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191001T091500Z
+DTEND:20191001T110000Z
+SUMMARY:[colleges] 4031PRGR4H Programmeermethoden NA - HC
+DESCRIPTION:4031PRGR4H Programmeermethoden NA - HC\n            Gebruiker Preuss\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A723217
+TRANSP:OPAQUE
+UID:7831a7c0-18e0-4019-85cd-718178e5e550@7831.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191119T141500Z
+DTEND:20191119T160000Z
+SUMMARY:[colleges] 4061OPTCAH Optica - HC
+DESCRIPTION:4061OPTCAH Optica - HC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717045
+TRANSP:OPAQUE
+UID:02a9c976-ecca-4abc-9eeb-a6611a4d314f@02a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191212T111500Z
+DTEND:20191212T130000Z
+SUMMARY:[werkgroep/] 4081LA1NAW Lineaire Algebra 1NA - WG
+DESCRIPTION:4081LA1NAW Lineaire Algebra 1NA - WG\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A742452
+TRANSP:OPAQUE
+UID:831f36f3-49c3-48fd-8c48-6d6cf9f61e79@831f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191113T111500Z
+DTEND:20191113T130000Z
+SUMMARY:[werkgroep/] 4061IMN06W Introductie Moderne Nat - WC
+DESCRIPTION:4061IMN06W Introductie Moderne Nat - WC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716967
+TRANSP:OPAQUE
+UID:564462c2-4344-4f70-bbc0-528ae30b70f2@5644.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200512T141500Z
+DTEND:20200512T180000Z
+SUMMARY:[werkgroep/] 4071PRST6W Praktische Sterrenkunde - WG
+DESCRIPTION:4071PRST6W Praktische Sterrenkunde - WG\n            Gebruiker van Langevelde\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717316
+TRANSP:OPAQUE
+UID:37ce8883-774e-45e1-9de1-4293ba3373e1@37ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200206T111500Z
+DTEND:20200206T130000Z
+SUMMARY:[colleges] 4061FVMT3H Fysica van Moderne Techn - HC
+DESCRIPTION:4061FVMT3H Fysica van Moderne Techn - HC\n            Gebruiker Loffler\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A722667
+TRANSP:OPAQUE
+UID:e98acf06-a30d-4550-bbf8-a43a3fdba31c@e98a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200407T091500Z
+DTEND:20200407T110000Z
+SUMMARY:[colleges] 4061ELMGVH Elektr & Magnetische Velden HC
+DESCRIPTION:4061ELMGVH Elektr & Magnetische Velden HC\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717629
+TRANSP:OPAQUE
+UID:bbf4cdd1-a3f8-4881-9bcc-e994f13df038@bbf4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191202T111500Z
+DTEND:20191202T130000Z
+SUMMARY:[colleges] 4081LA1NAH Lineaire Algebra 1NA - HC
+DESCRIPTION:4081LA1NAH Lineaire Algebra 1NA - HC\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716947
+TRANSP:OPAQUE
+UID:d09b8963-d568-42fe-b134-5158f511f026@d09b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191205T111500Z
+DTEND:20191205T130000Z
+SUMMARY:[werkgroep/] 4081LA1NAW Lineaire Algebra 1NA - WG
+DESCRIPTION:4081LA1NAW Lineaire Algebra 1NA - WG\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A742452
+TRANSP:OPAQUE
+UID:7a700515-c960-4264-96ce-a9950c70d03a@7a70.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200210T111500Z
+DTEND:20200210T130000Z
+SUMMARY:[werkgroep/] 4081AN2NAW Analyse 2NA - WG
+DESCRIPTION:4081AN2NAW Analyse 2NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717345
+TRANSP:OPAQUE
+UID:ae92ed70-f65b-46a2-893a-fced98947efd@ae92.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190930T161500Z
+DTEND:20190930T170000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716964
+TRANSP:OPAQUE
+UID:b8492713-6ac5-43b0-9b86-d5bda778d761@b849.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191104T111500Z
+DTEND:20191104T130000Z
+SUMMARY:[colleges] 4081LA1NAH Lineaire Algebra 1NA - HC
+DESCRIPTION:4081LA1NAH Lineaire Algebra 1NA - HC\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716947
+TRANSP:OPAQUE
+UID:44cc2fc9-cf29-4f4e-bdd3-d98ddd53bb45@44cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190910T141500Z
+DTEND:20190910T180000Z
+SUMMARY:[practicum] EN1 groep d
+DESCRIPTION:EN1 groep d\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728472
+TRANSP:OPAQUE
+UID:cff2ada9-93cd-43cd-9f95-2020df30e7c8@cff2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200312T111500Z
+DTEND:20200312T130000Z
+SUMMARY:[colleges] 4061FVMT3H Fysica van Moderne Techn - HC
+DESCRIPTION:4061FVMT3H Fysica van Moderne Techn - HC\n            Gebruiker Loffler\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A722667
+TRANSP:OPAQUE
+UID:8123e63a-e427-42f1-844b-b1dce3614a07@8123.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191125T091500Z
+DTEND:20191125T110000Z
+SUMMARY:[werkgroep/] 4081AN1NAW Analyse 1NA - WG
+DESCRIPTION:4081AN1NAW Analyse 1NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730804
+TRANSP:OPAQUE
+UID:e8183eee-62b9-48b1-8138-0d323a1b86f1@e818.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191015T091500Z
+DTEND:20191015T110000Z
+SUMMARY:[colleges] 4031PRGR4H Programmeermethoden NA - HC
+DESCRIPTION:4031PRGR4H Programmeermethoden NA - HC\n            Gebruiker Preuss\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A723217
+TRANSP:OPAQUE
+UID:c226f12c-ecba-45a8-adc0-136e95ea12ae@c226.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190911T091500Z
+DTEND:20190911T110000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716965
+TRANSP:OPAQUE
+UID:120d2730-3c11-44c6-9f34-8c2483fe1a3d@120d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200211T111500Z
+DTEND:20200211T130000Z
+SUMMARY:[werkgroep/] 4061OPTCAW Optica - WC
+DESCRIPTION:4061OPTCAW Optica - WC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717062
+TRANSP:OPAQUE
+UID:4f683366-d8e2-48f7-88ea-3cbc324b6600@4f68.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191007T091500Z
+DTEND:20191007T110000Z
+SUMMARY:[werkgroep/] 4081AN1NAW Analyse 1NA - WG
+DESCRIPTION:4081AN1NAW Analyse 1NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730804
+TRANSP:OPAQUE
+UID:f24a20bc-c352-469c-9ce8-92c3b6350239@f24a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200605T141500Z
+DTEND:20200605T171500Z
+SUMMARY:[hertentame] 4071PLST3T Planetenstelsels
+DESCRIPTION:4071PLST3T Planetenstelsels\n            Gebruiker Brown\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717536
+TRANSP:OPAQUE
+UID:6a49e2cd-37b6-435d-bf0e-0321bcdc8bdf@6a49.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200203T091500Z
+DTEND:20200203T110000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717326
+TRANSP:OPAQUE
+UID:12d4b9ad-5c6a-4d69-bd5e-ea60723e5485@12d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200414T111500Z
+DTEND:20200414T130000Z
+SUMMARY:[werkgroep/] 4061ELMGVW Elektr & Magnetische Velden WG
+DESCRIPTION:4061ELMGVW Elektr & Magnetische Velden WG\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717634
+TRANSP:OPAQUE
+UID:41fa2f17-6e9a-413b-9931-b34e9c31df94@41fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200320T091500Z
+DTEND:20200320T110000Z
+SUMMARY:[colleges] 4061KLASAH Klassieke Mechanica a - HC
+DESCRIPTION:4061KLASAH Klassieke Mechanica a - HC\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717393
+TRANSP:OPAQUE
+UID:059ac2df-de76-4356-806e-cdb412cb0a1c@059a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191111T111500Z
+DTEND:20191111T130000Z
+SUMMARY:[colleges] 4081LA1NAH Lineaire Algebra 1NA - HC
+DESCRIPTION:4081LA1NAH Lineaire Algebra 1NA - HC\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716947
+TRANSP:OPAQUE
+UID:833af64c-9c14-4af0-ab85-4eb724e970be@833a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190924T091500Z
+DTEND:20190924T110000Z
+SUMMARY:[colleges] 4031PRGR4H Programmeermethoden NA - HC
+DESCRIPTION:4031PRGR4H Programmeermethoden NA - HC\n            Gebruiker Preuss\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A723217
+TRANSP:OPAQUE
+UID:22c5be5f-92cd-4224-8161-1ac657aed2ee@22c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191211T141500Z
+DTEND:20191211T180000Z
+SUMMARY:[werkgroep/] 4601PC11CW Presenteren & Communiceren -WG
+DESCRIPTION:4601PC11CW Presenteren & Communiceren -WG\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717086
+TRANSP:OPAQUE
+UID:9dd3ac95-7b34-42d4-bc3a-409738698729@9dd3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200515T111500Z
+DTEND:20200515T130000Z
+SUMMARY:[werkgroep/] 4061KLASAW Klassieke Mechanica a - WG
+DESCRIPTION:4061KLASAW Klassieke Mechanica a - WG\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717400
+TRANSP:OPAQUE
+UID:2370a17e-4263-41a9-a87f-4a9a0cbceb44@2370.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200604T091500Z
+DTEND:20200604T130000Z
+SUMMARY:[werkgroep/] 4601PC11CW Presenteren & Communiceren -WG
+DESCRIPTION:4601PC11CW Presenteren & Communiceren -WG\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717460
+TRANSP:OPAQUE
+UID:f03ed214-824d-43d5-a549-69f390e445a0@f03e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191120T161500Z
+DTEND:20191120T180000Z
+SUMMARY:[werkgroep/] 4071ASTROW Inleiding Astrofysica - WG
+DESCRIPTION:4071ASTROW Inleiding Astrofysica - WG\n            Gebruiker Hoekstra\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717013
+TRANSP:OPAQUE
+UID:53c75468-bb9e-4db7-bbc2-c219227ae587@53c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190923T161500Z
+DTEND:20190923T170000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716964
+TRANSP:OPAQUE
+UID:71c3039f-56b3-4147-a23e-bf2f09d670af@71c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190930T091500Z
+DTEND:20190930T110000Z
+SUMMARY:[werkgroep/] 4081AN1NAW Analyse 1NA - WG
+DESCRIPTION:4081AN1NAW Analyse 1NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730804
+TRANSP:OPAQUE
+UID:1f5dafb0-abac-45f6-b3ae-89acf815d8c3@1f5d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200210T091500Z
+DTEND:20200210T110000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717326
+TRANSP:OPAQUE
+UID:25d421ae-4230-41c9-a0c7-d0c89db47e51@25d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191106T131500Z
+DTEND:20191106T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:1de57e5b-4f02-432e-869c-77ef3e715f09@1de5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190716T170000Z
+DTEND:20190716T170100Z
+SUMMARY:[hertentame] 4071PRST6A Praktische Sterrenkunde 6e P
+DESCRIPTION:4071PRST6A Praktische Sterrenkunde 6e P\n            Gebruiker None\n            Aanvrager Pen-Oosthoek\, Drs. A Sterrenkunde\n            Aanvraagnummer A742585
+TRANSP:OPAQUE
+UID:f7c291f6-7e2c-4c21-a96f-36e4453cc575@f7c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200515T141500Z
+DTEND:20200515T180000Z
+SUMMARY:[werkgroep/] 4601PC11CW Presenteren & Communiceren -WG
+DESCRIPTION:4601PC11CW Presenteren & Communiceren -WG\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717445
+TRANSP:OPAQUE
+UID:0aee2efc-5332-42f0-88b7-77b0b8a19bf3@0aee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200513T131500Z
+DTEND:20200513T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:42aaa773-5c97-49bb-a51b-bb022667e1a0@42aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200129T161500Z
+DTEND:20200129T180000Z
+SUMMARY:[colleges] Introductie 5 Experimentele Natuurkunde
+DESCRIPTION:Introductie 5 Experimentele Natuurkunde\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717302
+TRANSP:OPAQUE
+UID:152fa895-7a76-4e95-8965-c1b5d60ec84a@152f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200708T141500Z
+DTEND:20200708T171500Z
+SUMMARY:[hertentame] 4061ELMGVT Elektrische en Magnetische Vel
+DESCRIPTION:4061ELMGVT Elektrische en Magnetische Vel\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717562
+TRANSP:OPAQUE
+UID:221ffc73-6d48-4f0b-94c3-825ea97c52a4@221f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191106T161500Z
+DTEND:20191106T180000Z
+SUMMARY:[colleges] Introductie 3 Experimentele Natuurkunde
+DESCRIPTION:Introductie 3 Experimentele Natuurkunde\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717026
+TRANSP:OPAQUE
+UID:9fe3bd96-6b00-407f-a3ae-ee115f287dbd@9fe3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200318T131500Z
+DTEND:20200318T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:097ba65b-1aaa-4a20-a11d-efb9a7469041@097b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200421T090000Z
+DTEND:20200421T110000Z
+SUMMARY:[toets] 4061ELMGVT Elektrische en Magnetische Vel
+DESCRIPTION:4061ELMGVT Elektrische en Magnetische Vel\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A742524
+TRANSP:OPAQUE
+UID:e6e2ec17-cc82-4396-8425-6d2ba6452853@e6e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190911T131500Z
+DTEND:20190911T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:36ae4f53-6aa6-4a92-85d4-6eff9dba37cd@36ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190912T091500Z
+DTEND:20190912T110000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716959
+TRANSP:OPAQUE
+UID:e7c605ea-9c7d-44ec-989f-25c391f1cfeb@e7c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200330T111500Z
+DTEND:20200330T130000Z
+SUMMARY:[werkgroep/] 4081AN2NAW Analyse 2NA - WG
+DESCRIPTION:4081AN2NAW Analyse 2NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717345
+TRANSP:OPAQUE
+UID:62f525f9-9916-421b-9fe8-b32422912d0a@62f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200506T141500Z
+DTEND:20200506T180000Z
+SUMMARY:[werkgroep/] 4061FVMT3P Fysica van mod. techn. 3EC PR
+DESCRIPTION:4061FVMT3P Fysica van mod. techn. 3EC PR\n            Gebruiker Loffler\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717431
+TRANSP:OPAQUE
+UID:a460932c-9d7e-4eb0-adff-fcdae38696da@a460.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190904T141500Z
+DTEND:20190904T160000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716957
+TRANSP:OPAQUE
+UID:d2d22ddb-88fd-4b10-9b88-e8c08d9fd2bc@d2d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191202T091500Z
+DTEND:20191202T110000Z
+SUMMARY:[werkgroep/] 4081AN1NAW Analyse 1NA - WG
+DESCRIPTION:4081AN1NAW Analyse 1NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730804
+TRANSP:OPAQUE
+UID:3516f873-78a7-4eff-b753-649c4f2270d5@3516.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200323T141500Z
+DTEND:20200323T160000Z
+SUMMARY:[colleges] 4071PLST3H Planetenstelsels - HC
+DESCRIPTION:4071PLST3H Planetenstelsels - HC\n            Gebruiker Brown\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717362
+TRANSP:OPAQUE
+UID:2786c459-6c85-414e-93fb-e8ef1f1e7dc2@2786.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191014T091500Z
+DTEND:20191014T110000Z
+SUMMARY:[werkgroep/] 4081AN1NAW Analyse 1NA - WG
+DESCRIPTION:4081AN1NAW Analyse 1NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730804
+TRANSP:OPAQUE
+UID:ce43c18b-03b4-4e40-883b-88233ba17492@ce43.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200302T141500Z
+DTEND:20200302T160000Z
+SUMMARY:[colleges] 4071PLST3H Planetenstelsels - HC
+DESCRIPTION:4071PLST3H Planetenstelsels - HC\n            Gebruiker Brown\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717362
+TRANSP:OPAQUE
+UID:aec00804-bb30-47bb-851f-539a646d363d@aec0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191209T091500Z
+DTEND:20191209T110000Z
+SUMMARY:[werkgroep/] 4081AN1NAW Analyse 1NA - WG
+DESCRIPTION:4081AN1NAW Analyse 1NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730804
+TRANSP:OPAQUE
+UID:60921775-def2-47f4-af0b-98ec48f878dc@6092.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200306T111500Z
+DTEND:20200306T130000Z
+SUMMARY:[werkgroep/] 4061KLASAW Klassieke Mechanica a - WG
+DESCRIPTION:4061KLASAW Klassieke Mechanica a - WG\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717400
+TRANSP:OPAQUE
+UID:7bb80447-35c4-4570-9dbf-5f45ee639743@7bb8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191112T161500Z
+DTEND:20191112T180000Z
+SUMMARY:[werkgroep/] 4061OPTCAW Optica - WC
+DESCRIPTION:4061OPTCAW Optica - WC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717054
+TRANSP:OPAQUE
+UID:7e279d2b-78ae-471c-a074-889cf8ef79b0@7e27.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191206T091500Z
+DTEND:20191206T130000Z
+SUMMARY:[practicum] EN 3 groep c
+DESCRIPTION:EN 3 groep c\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728486
+TRANSP:OPAQUE
+UID:4975b372-7a4b-4eb9-b426-7d3d6c5ed373@4975.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200304T111500Z
+DTEND:20200304T130000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717353
+TRANSP:OPAQUE
+UID:72d51083-73ee-4d78-b881-9769a4c3a79d@72d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191009T091500Z
+DTEND:20191009T110000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716965
+TRANSP:OPAQUE
+UID:85d6660d-88b7-4e25-831f-161f1b2f63e2@85d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190902T131500Z
+DTEND:20190902T150000Z
+SUMMARY:[colleges] 4081LA1NAH Lineaire Algebra 1NA - HC
+DESCRIPTION:4081LA1NAH Lineaire Algebra 1NA - HC\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716947
+TRANSP:OPAQUE
+UID:9b3990bf-f99d-4403-a07f-29bfdfb97d55@9b39.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190917T141500Z
+DTEND:20190917T180000Z
+SUMMARY:[practicum] EN1 groep c
+DESCRIPTION:EN1 groep c\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728470
+TRANSP:OPAQUE
+UID:200f08a0-eef8-4897-a128-2802ec51db3b@200f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191212T141500Z
+DTEND:20191212T180000Z
+SUMMARY:[practicum] EN 3 groep b
+DESCRIPTION:EN 3 groep b\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728487
+TRANSP:OPAQUE
+UID:c7b48586-7c66-43f2-b924-788ee1cf6e24@c7b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191204T131500Z
+DTEND:20191204T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:99a70f19-1f5e-40e9-a466-989e0b03b119@99a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200302T131500Z
+DTEND:20200302T140000Z
+SUMMARY:[colleges] 4061DIFF3H Diffusie - HC
+DESCRIPTION:4061DIFF3H Diffusie - HC\n            Gebruiker van Noort\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717355
+TRANSP:OPAQUE
+UID:c8cc59d2-ceeb-441b-8e64-de27589e46b4@c8cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200221T111500Z
+DTEND:20200221T130000Z
+SUMMARY:[werkgroep/] 4061KLASAW Klassieke Mechanica a - WG
+DESCRIPTION:4061KLASAW Klassieke Mechanica a - WG\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717400
+TRANSP:OPAQUE
+UID:b7d50fe9-d6dc-4ba9-b896-ea590356ed79@b7d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200203T111500Z
+DTEND:20200203T130000Z
+SUMMARY:[werkgroep/] 4081AN2NAW Analyse 2NA - WG
+DESCRIPTION:4081AN2NAW Analyse 2NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717345
+TRANSP:OPAQUE
+UID:6aea72a0-5043-4743-9817-35d4501767fb@6aea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191211T091500Z
+DTEND:20191211T110000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716965
+TRANSP:OPAQUE
+UID:b0be806d-c872-45de-80c0-d474f178cd62@b0be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200407T141500Z
+DTEND:20200407T180000Z
+SUMMARY:[werkgroep/] 4071PRST6W Praktische Sterrenkunde - WG
+DESCRIPTION:4071PRST6W Praktische Sterrenkunde - WG\n            Gebruiker van Langevelde\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717316
+TRANSP:OPAQUE
+UID:f0c0a9c3-9a6f-4128-8c23-0f4b134885ec@f0c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191210T161500Z
+DTEND:20191210T180000Z
+SUMMARY:[werkgroep/] 4061OPTCAW Optica - WC
+DESCRIPTION:4061OPTCAW Optica - WC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717054
+TRANSP:OPAQUE
+UID:9691a7bd-b7f1-4917-9259-5ab9f35b86ae@9691.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191120T111500Z
+DTEND:20191120T130000Z
+SUMMARY:[werkgroep/] 4061IMN06W Introductie Moderne Nat - WC
+DESCRIPTION:4061IMN06W Introductie Moderne Nat - WC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716967
+TRANSP:OPAQUE
+UID:fd06a673-ae9d-43fa-88d6-8f4c65661c06@fd06.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191121T091500Z
+DTEND:20191121T110000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716959
+TRANSP:OPAQUE
+UID:f2c396f6-c162-4943-b9e6-187f06290979@f2c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191203T141500Z
+DTEND:20191203T160000Z
+SUMMARY:[colleges] 4061OPTCAH Optica - HC
+DESCRIPTION:4061OPTCAH Optica - HC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717045
+TRANSP:OPAQUE
+UID:c520b45f-33e8-41f9-9b11-3d3719ed2fef@c520.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200525T091500Z
+DTEND:20200525T110000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717326
+TRANSP:OPAQUE
+UID:252de4ee-812d-4371-a2e5-4d4fc1aff892@252d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191114T141500Z
+DTEND:20191114T180000Z
+SUMMARY:[practicum] EN 2 groep b
+DESCRIPTION:EN 2 groep b\n            Gebruiker Martin van Hecke\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728484
+TRANSP:OPAQUE
+UID:78d8b4bd-d969-4213-b077-3550e64a9468@78d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191118T111500Z
+DTEND:20191118T130000Z
+SUMMARY:[colleges] 4081LA1NAH Lineaire Algebra 1NA - HC
+DESCRIPTION:4081LA1NAH Lineaire Algebra 1NA - HC\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716947
+TRANSP:OPAQUE
+UID:2bef9f9f-6823-4003-8763-596242bd1c9b@2bef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200512T111500Z
+DTEND:20200512T130000Z
+SUMMARY:[werkgroep/] 4061ELMGVW Elektr & Magnetische Velden WG
+DESCRIPTION:4061ELMGVW Elektr & Magnetische Velden WG\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717634
+TRANSP:OPAQUE
+UID:abfefa12-2642-4d34-ab17-9f0ed112d850@abfe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200217T131500Z
+DTEND:20200217T140000Z
+SUMMARY:[colleges] 4061DIFF3H Diffusie - HC
+DESCRIPTION:4061DIFF3H Diffusie - HC\n            Gebruiker van Noort\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717355
+TRANSP:OPAQUE
+UID:07aecc5f-2e0b-4528-8442-f84084c2b4d7@07ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200320T111500Z
+DTEND:20200320T130000Z
+SUMMARY:[werkgroep/] 4061KLASAW Klassieke Mechanica a - WG
+DESCRIPTION:4061KLASAW Klassieke Mechanica a - WG\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717400
+TRANSP:OPAQUE
+UID:3076f256-49a8-42a2-b485-be7244086587@3076.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190923T111500Z
+DTEND:20190923T130000Z
+SUMMARY:[colleges] 4081LA1NAH Lineaire Algebra 1NA - HC
+DESCRIPTION:4081LA1NAH Lineaire Algebra 1NA - HC\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716947
+TRANSP:OPAQUE
+UID:ed3d6f73-00ae-44a2-9706-71b4006a9431@ed3d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191129T141500Z
+DTEND:20191129T180000Z
+SUMMARY:[practicum] EN 3 groep a
+DESCRIPTION:EN 3 groep a\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728485
+TRANSP:OPAQUE
+UID:7675da3a-055e-464b-8692-481039721c63@7675.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191030T161500Z
+DTEND:20191030T180000Z
+SUMMARY:[werkgroep/] 4071ASTROW Inleiding Astrofysica - WG
+DESCRIPTION:4071ASTROW Inleiding Astrofysica - WG\n            Gebruiker Hoekstra\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717005
+TRANSP:OPAQUE
+UID:59883baf-fa21-4d6c-ab8c-4cc783ca44ec@5988.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200110T141500Z
+DTEND:20200110T171500Z
+SUMMARY:[tentamen] 4081LA1NAT Lineaire algebra 1 NA TEN
+DESCRIPTION:4081LA1NAT Lineaire algebra 1 NA TEN\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717266
+TRANSP:OPAQUE
+UID:2cd8a045-9142-4f88-ae8a-7634d3576a93@2cd8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191113T141500Z
+DTEND:20191113T160000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716957
+TRANSP:OPAQUE
+UID:9835d242-b86f-45d0-808f-309697c1e51a@9835.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200429T141500Z
+DTEND:20200429T171500Z
+SUMMARY:[tentamen] 4061FVLDPT Fysica van Leven (van DNA ..)
+DESCRIPTION:4061FVLDPT Fysica van Leven (van DNA ..)\n            Gebruiker Semrau\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717514
+TRANSP:OPAQUE
+UID:71d1a11f-d0a1-4109-80ae-d10949927d62@71d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191115T141500Z
+DTEND:20191115T160000Z
+SUMMARY:[colleges] Introductie 3 Experimentele Natuurkunde
+DESCRIPTION:Introductie 3 Experimentele Natuurkunde\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717034
+TRANSP:OPAQUE
+UID:04429eda-d190-4423-83d4-a65615dae486@0442.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190913T141500Z
+DTEND:20190913T180000Z
+SUMMARY:[practicum] EN1 groep a
+DESCRIPTION:EN1 groep a\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728474
+TRANSP:OPAQUE
+UID:d0b304de-9689-4bfe-9a96-84c953e61ecc@d0b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191127T131500Z
+DTEND:20191127T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:b8d52d25-239e-47b6-a6e6-e807c74e50fa@b8d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191218T141500Z
+DTEND:20191218T171500Z
+SUMMARY:[tentamen] 4061IMN06T Introductie moderne natuurkund
+DESCRIPTION:4061IMN06T Introductie moderne natuurkund\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717218
+TRANSP:OPAQUE
+UID:8117e1a5-b216-4589-bf8c-e475d5921478@8117.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191113T161500Z
+DTEND:20191113T180000Z
+SUMMARY:[werkgroep/] 4071ASTROW Inleiding Astrofysica - WG
+DESCRIPTION:4071ASTROW Inleiding Astrofysica - WG\n            Gebruiker Hoekstra\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717009
+TRANSP:OPAQUE
+UID:611f9125-614b-4d44-8b72-44a08fd8d6e2@611f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200219T111500Z
+DTEND:20200219T130000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717353
+TRANSP:OPAQUE
+UID:e95d24cb-0de4-44f1-bcc2-4525f7ca1fd7@e95d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200609T141500Z
+DTEND:20200609T180000Z
+SUMMARY:[werkgroep/] 4071PRST6W Praktische Sterrenkunde - WG
+DESCRIPTION:4071PRST6W Praktische Sterrenkunde - WG\n            Gebruiker van Langevelde\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717316
+TRANSP:OPAQUE
+UID:1e25f457-3c99-4499-b454-609a2e653a6f@1e25.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190919T111500Z
+DTEND:20190919T130000Z
+SUMMARY:[werkgroep/] 4081LA1NAW Lineaire Algebra 1NA - WG
+DESCRIPTION:4081LA1NAW Lineaire Algebra 1NA - WG\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A742452
+TRANSP:OPAQUE
+UID:2b604a22-5cb9-443f-8d6f-9ce23b006d67@2b60.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200309T141500Z
+DTEND:20200309T160000Z
+SUMMARY:[colleges] 4061OPTCAH Optica - HC
+DESCRIPTION:4061OPTCAH Optica - HC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717068
+TRANSP:OPAQUE
+UID:bfc0481f-0312-45fd-8e72-058c3b453ad5@bfc0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200323T091500Z
+DTEND:20200323T110000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717326
+TRANSP:OPAQUE
+UID:782c65fa-298a-4369-b335-f7fdb54525c3@782c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190911T141500Z
+DTEND:20190911T160000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716957
+TRANSP:OPAQUE
+UID:747b4c63-96ee-4679-aea5-128ff0ee1fbb@747b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200324T091500Z
+DTEND:20200324T110000Z
+SUMMARY:[colleges] 4061ELMGVH Elektr & Magnetische Velden HC
+DESCRIPTION:4061ELMGVH Elektr & Magnetische Velden HC\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717629
+TRANSP:OPAQUE
+UID:66e70089-b5fc-4b35-af39-f162352a659b@66e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200511T111500Z
+DTEND:20200511T130000Z
+SUMMARY:[werkgroep/] 4081AN2NAW Analyse 2NA - WG
+DESCRIPTION:4081AN2NAW Analyse 2NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717345
+TRANSP:OPAQUE
+UID:76c214b8-fcaa-4c7a-b6a4-b99c50308ac0@76c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191209T161500Z
+DTEND:20191209T170000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716964
+TRANSP:OPAQUE
+UID:a17ac3e9-218f-42b1-9ada-63f63c1d6596@a17a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191002T091500Z
+DTEND:20191002T110000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716965
+TRANSP:OPAQUE
+UID:b11eb6f8-c157-412f-8d71-dee76d752f96@b11e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200122T141500Z
+DTEND:20200122T171500Z
+SUMMARY:[hertentame] 4031PRGR4T Programmeermethoden NA 4ec TEN
+DESCRIPTION:4031PRGR4T Programmeermethoden NA 4ec TEN\n            Gebruiker Preuss\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730379
+TRANSP:OPAQUE
+UID:bf12f851-1228-434b-881a-1137ef36bdf9@bf12.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200402T111500Z
+DTEND:20200402T130000Z
+SUMMARY:[colleges] 4061FVLDPH Fysica van Leven - HC
+DESCRIPTION:4061FVLDPH Fysica van Leven - HC\n            Gebruiker Semrau\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717377
+TRANSP:OPAQUE
+UID:bf50f92a-d812-4748-8231-de350ac9efa0@bf50.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191209T111500Z
+DTEND:20191209T130000Z
+SUMMARY:[colleges] 4081LA1NAH Lineaire Algebra 1NA - HC
+DESCRIPTION:4081LA1NAH Lineaire Algebra 1NA - HC\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716947
+TRANSP:OPAQUE
+UID:322f3b6c-28dc-4bc6-82b8-88bf492f71ac@322f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200403T111500Z
+DTEND:20200403T130000Z
+SUMMARY:[werkgroep/] 4061KLASAW Klassieke Mechanica a - WG
+DESCRIPTION:4061KLASAW Klassieke Mechanica a - WG\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717400
+TRANSP:OPAQUE
+UID:887544eb-d1c5-4d50-972d-c3392fc4d4f1@8875.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200206T111500Z
+DTEND:20200206T130000Z
+SUMMARY:[colleges] 4061FVLDPH Fysica van Leven - HC
+DESCRIPTION:4061FVLDPH Fysica van Leven - HC\n            Gebruiker Semrau\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717377
+TRANSP:OPAQUE
+UID:20c62ac8-bb0e-44d9-b1bc-28c7d1af7895@20c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200518T111500Z
+DTEND:20200518T130000Z
+SUMMARY:[werkgroep/] 4081AN2NAW Analyse 2NA - WG
+DESCRIPTION:4081AN2NAW Analyse 2NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717345
+TRANSP:OPAQUE
+UID:ad1f5dc9-aa05-4046-a156-ef6df506b0de@ad1f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191009T141500Z
+DTEND:20191009T160000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716957
+TRANSP:OPAQUE
+UID:2668c8d7-9f13-4800-8835-be7eff4148ad@2668.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191112T091500Z
+DTEND:20191112T110000Z
+SUMMARY:[colleges] 4031PRGR4H Programmeermethoden NA - HC
+DESCRIPTION:4031PRGR4H Programmeermethoden NA - HC\n            Gebruiker Preuss\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A723217
+TRANSP:OPAQUE
+UID:9935809b-5f67-404c-8c94-89f4935c93cc@9935.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191126T161500Z
+DTEND:20191126T180000Z
+SUMMARY:[werkgroep/] 4061OPTCAW Optica - WC
+DESCRIPTION:4061OPTCAW Optica - WC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717054
+TRANSP:OPAQUE
+UID:4499b905-422b-41d2-b7eb-7fd6616b9280@4499.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200312T111500Z
+DTEND:20200312T130000Z
+SUMMARY:[colleges] 4061FVLDPH Fysica van Leven - HC
+DESCRIPTION:4061FVLDPH Fysica van Leven - HC\n            Gebruiker Semrau\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717377
+TRANSP:OPAQUE
+UID:b99442e8-5014-433d-b00c-a9a2e2d347a2@b994.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200331T141500Z
+DTEND:20200331T161500Z
+SUMMARY:[toets] 4061KLASAT Klassieke mechanica a TEN
+DESCRIPTION:4061KLASAT Klassieke mechanica a TEN\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717493
+TRANSP:OPAQUE
+UID:eba11783-c886-485a-bb98-f0b01700d7a9@eba1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200519T091500Z
+DTEND:20200519T110000Z
+SUMMARY:[colleges] 4061ELMGVH Elektr & Magnetische Velden HC
+DESCRIPTION:4061ELMGVH Elektr & Magnetische Velden HC\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717629
+TRANSP:OPAQUE
+UID:52a365a9-9844-4ccf-ad91-bf7e3c34a80e@52a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200414T091500Z
+DTEND:20200414T110000Z
+SUMMARY:[colleges] 4061ELMGVH Elektr & Magnetische Velden HC
+DESCRIPTION:4061ELMGVH Elektr & Magnetische Velden HC\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717629
+TRANSP:OPAQUE
+UID:dec0034a-9683-4318-8976-4c853454f217@dec0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200512T091500Z
+DTEND:20200512T110000Z
+SUMMARY:[colleges] 4061ELMGVH Elektr & Magnetische Velden HC
+DESCRIPTION:4061ELMGVH Elektr & Magnetische Velden HC\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717629
+TRANSP:OPAQUE
+UID:544da1cb-8bfa-434b-a0a4-7322e158facb@544d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190910T091500Z
+DTEND:20190910T110000Z
+SUMMARY:[colleges] 4031PRGR4H Programmeermethoden NA - HC
+DESCRIPTION:4031PRGR4H Programmeermethoden NA - HC\n            Gebruiker Preuss\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A723217
+TRANSP:OPAQUE
+UID:28bc7678-b527-49be-a814-6628e1abb9bb@28bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200428T141500Z
+DTEND:20200428T180000Z
+SUMMARY:[werkgroep/] 4061FVMT3P Fysica van mod. techn. 3EC PR
+DESCRIPTION:4061FVMT3P Fysica van mod. techn. 3EC PR\n            Gebruiker Loffler\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717429
+TRANSP:OPAQUE
+UID:3d094ea6-e2ec-4be3-b2aa-c9caf60fce8a@3d09.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190927T091500Z
+DTEND:20190927T130000Z
+SUMMARY:[practicum] EN1 groep b
+DESCRIPTION:EN1 groep b\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728464
+TRANSP:OPAQUE
+UID:e04cd15b-391f-43e9-8b3a-7ed0a09fca8e@e04c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191016T141500Z
+DTEND:20191016T160000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716957
+TRANSP:OPAQUE
+UID:9fad207a-013c-4ed1-b90d-74050cb4f86e@9fad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200207T111500Z
+DTEND:20200207T130000Z
+SUMMARY:[werkgroep/] 4061KLASAW Klassieke Mechanica a - WG
+DESCRIPTION:4061KLASAW Klassieke Mechanica a - WG\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717400
+TRANSP:OPAQUE
+UID:9b70e405-5d6e-49cc-85ac-9fa0ee8f884a@9b70.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200214T111500Z
+DTEND:20200214T130000Z
+SUMMARY:[werkgroep/] 4061KLASAW Klassieke Mechanica a - WG
+DESCRIPTION:4061KLASAW Klassieke Mechanica a - WG\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717400
+TRANSP:OPAQUE
+UID:94b35c1c-ccb5-4617-8288-bf56d6044be7@94b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190927T141500Z
+DTEND:20190927T180000Z
+SUMMARY:[practicum] EN1 groep a
+DESCRIPTION:EN1 groep a\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728474
+TRANSP:OPAQUE
+UID:debfd8bd-2d7f-42f4-9bb0-36de67304bcd@debf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200706T141500Z
+DTEND:20200706T171500Z
+SUMMARY:[hertentame] 4061KLASAT Klassieke mechanica a TEN
+DESCRIPTION:4061KLASAT Klassieke mechanica a TEN\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717560
+TRANSP:OPAQUE
+UID:c70dd33d-9bf4-4945-84fc-8b47a6a43eb1@c70d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200527T111500Z
+DTEND:20200527T130000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717353
+TRANSP:OPAQUE
+UID:94737528-d697-4330-9b26-89cbe075d161@9473.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191024T130000Z
+DTEND:20191024T150000Z
+SUMMARY:[toets] 4081AN1NAT Analyse 1 NA TEN
+DESCRIPTION:4081AN1NAT Analyse 1 NA TEN\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A742526
+TRANSP:OPAQUE
+UID:530befd5-7173-4dd9-a0b6-672a7f59cd7a@530b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191127T141500Z
+DTEND:20191127T160000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716957
+TRANSP:OPAQUE
+UID:c4201e05-9b93-4771-b21e-4f3ec3f5ee09@c420.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200106T141500Z
+DTEND:20200106T171500Z
+SUMMARY:[tentamen] 4031PRGR4T Programmeermethoden NA 4ec TEN
+DESCRIPTION:4031PRGR4T Programmeermethoden NA 4ec TEN\n            Gebruiker Preuss\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730334
+TRANSP:OPAQUE
+UID:4a4c2867-2609-4a90-9a04-2b390bba6dc6@4a4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191107T091500Z
+DTEND:20191107T110000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716959
+TRANSP:OPAQUE
+UID:b0b7db60-f92a-4f9a-a826-4cecb4e9035d@b0b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190919T091500Z
+DTEND:20190919T110000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716959
+TRANSP:OPAQUE
+UID:2d13b8be-4e5d-4821-833d-6f57b5505089@2d13.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191128T111500Z
+DTEND:20191128T130000Z
+SUMMARY:[werkgroep/] 4081LA1NAW Lineaire Algebra 1NA - WG
+DESCRIPTION:4081LA1NAW Lineaire Algebra 1NA - WG\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A742452
+TRANSP:OPAQUE
+UID:4c6aea95-d9fd-424b-a253-65f27cb3c67a@4c6a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190909T091500Z
+DTEND:20190909T110000Z
+SUMMARY:[werkgroep/] 4081AN1NAW Analyse 1NA - WG
+DESCRIPTION:4081AN1NAW Analyse 1NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730804
+TRANSP:OPAQUE
+UID:a2de5ea6-db45-4fbd-bd0b-5e50620440cd@a2de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191106T111500Z
+DTEND:20191106T130000Z
+SUMMARY:[werkgroep/] 4061IMN06W Introductie Moderne Nat - WC
+DESCRIPTION:4061IMN06W Introductie Moderne Nat - WC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716967
+TRANSP:OPAQUE
+UID:9702b6bf-9db1-40a5-a27b-e4c65417e180@9702.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191115T091500Z
+DTEND:20191115T130000Z
+SUMMARY:[practicum] EN 2 groep b
+DESCRIPTION:EN 2 groep b\n            Gebruiker Martin van Hecke\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728484
+TRANSP:OPAQUE
+UID:df973ec8-806f-453f-91a9-e963bed70a91@df97.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200204T111500Z
+DTEND:20200204T130000Z
+SUMMARY:[werkgroep/] 4061OPTCAW Optica - WC
+DESCRIPTION:4061OPTCAW Optica - WC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717062
+TRANSP:OPAQUE
+UID:52159dcc-a9a2-4458-8447-354fbd5dcf0b@5215.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200306T091500Z
+DTEND:20200306T110000Z
+SUMMARY:[colleges] 4061KLASAH Klassieke Mechanica a - HC
+DESCRIPTION:4061KLASAH Klassieke Mechanica a - HC\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717393
+TRANSP:OPAQUE
+UID:6a5676f8-59ed-4fd3-9849-debe20ca7d61@6a56.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200205T131500Z
+DTEND:20200205T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:887b6b9c-724d-477d-a21a-bca419f4510c@887b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200420T111500Z
+DTEND:20200420T130000Z
+SUMMARY:[werkgroep/] 4081AN2NAW Analyse 2NA - WG
+DESCRIPTION:4081AN2NAW Analyse 2NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717345
+TRANSP:OPAQUE
+UID:8c6063e7-22f6-4d66-a834-7c234eeb6d62@8c60.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200415T111500Z
+DTEND:20200415T130000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717353
+TRANSP:OPAQUE
+UID:65d290bf-6950-4989-8605-7440344a035e@65d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191014T111500Z
+DTEND:20191014T130000Z
+SUMMARY:[colleges] 4081LA1NAH Lineaire Algebra 1NA - HC
+DESCRIPTION:4081LA1NAH Lineaire Algebra 1NA - HC\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716947
+TRANSP:OPAQUE
+UID:73b26dce-9d9f-4adc-85d0-3ae95dda4db2@73b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191010T111500Z
+DTEND:20191010T130000Z
+SUMMARY:[werkgroep/] 4081LA1NAW Lineaire Algebra 1NA - WG
+DESCRIPTION:4081LA1NAW Lineaire Algebra 1NA - WG\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A742452
+TRANSP:OPAQUE
+UID:e1f0f067-9cc5-462e-91c2-17ba4da29b92@e1f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200309T161500Z
+DTEND:20200309T180000Z
+SUMMARY:[colleges] Introductie 6 Experimentele Natuurkunde
+DESCRIPTION:Introductie 6 Experimentele Natuurkunde\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717373
+TRANSP:OPAQUE
+UID:0ffb3f40-42a1-49ac-bb6e-66b3c75c3b8d@0ffb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200511T091500Z
+DTEND:20200511T110000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717326
+TRANSP:OPAQUE
+UID:8dc45ba3-d6ea-4031-917f-b8776031c828@8dc4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200302T111500Z
+DTEND:20200302T130000Z
+SUMMARY:[werkgroep/] 4081AN2NAW Analyse 2NA - WG
+DESCRIPTION:4081AN2NAW Analyse 2NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717345
+TRANSP:OPAQUE
+UID:96d64367-6121-4f1f-9a04-98fe18aedbbf@96d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190912T111500Z
+DTEND:20190912T130000Z
+SUMMARY:[werkgroep/] 4081LA1NAW Lineaire Algebra 1NA - WG
+DESCRIPTION:4081LA1NAW Lineaire Algebra 1NA - WG\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A742452
+TRANSP:OPAQUE
+UID:b797c4c9-fced-4343-a797-84f672856cd0@b797.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200529T091500Z
+DTEND:20200529T130000Z
+SUMMARY:[werkgroep/] 4601PC11CW Presenteren & Communiceren -WG
+DESCRIPTION:4601PC11CW Presenteren & Communiceren -WG\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717457
+TRANSP:OPAQUE
+UID:46fc2881-d8c9-438e-9e82-b33029625cfc@46fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191205T091500Z
+DTEND:20191205T110000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716959
+TRANSP:OPAQUE
+UID:b7249409-100f-4bfb-be20-f4357fe6f89f@b724.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190930T111500Z
+DTEND:20190930T130000Z
+SUMMARY:[colleges] 4081LA1NAH Lineaire Algebra 1NA - HC
+DESCRIPTION:4081LA1NAH Lineaire Algebra 1NA - HC\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716947
+TRANSP:OPAQUE
+UID:ff33f38e-1007-40a2-80b3-ec8180c7d0e5@ff33.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191007T161500Z
+DTEND:20191007T170000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716964
+TRANSP:OPAQUE
+UID:0a4daf2d-6396-4e41-89b9-0d6474e27fe9@0a4d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191125T161500Z
+DTEND:20191125T170000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716964
+TRANSP:OPAQUE
+UID:35ce20e1-c2d4-47ed-a35c-93d8603f2aba@35ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200415T131500Z
+DTEND:20200415T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:cc30212f-8bde-4874-b525-4c9e32680c50@cc30.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191127T161500Z
+DTEND:20191127T180000Z
+SUMMARY:[werkgroep/] 4071ASTROW Inleiding Astrofysica - WG
+DESCRIPTION:4071ASTROW Inleiding Astrofysica - WG\n            Gebruiker Hoekstra\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717018
+TRANSP:OPAQUE
+UID:6e807471-4497-4478-b701-1e3d6af11b22@6e80.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200221T091500Z
+DTEND:20200221T110000Z
+SUMMARY:[colleges] 4061KLASAH Klassieke Mechanica a - HC
+DESCRIPTION:4061KLASAH Klassieke Mechanica a - HC\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717393
+TRANSP:OPAQUE
+UID:bf4088da-eff2-4162-9e6e-c9b839d8ec5d@bf40.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190918T141500Z
+DTEND:20190918T160000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716957
+TRANSP:OPAQUE
+UID:b76663db-fa2b-48e5-a25e-7f85a554b4ce@b766.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200207T091500Z
+DTEND:20200207T110000Z
+SUMMARY:[colleges] 4061KLASAH Klassieke Mechanica a - HC
+DESCRIPTION:4061KLASAH Klassieke Mechanica a - HC\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717393
+TRANSP:OPAQUE
+UID:e046507b-e8bd-4d83-96b0-b4563605a833@e046.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191111T141500Z
+DTEND:20191111T160000Z
+SUMMARY:[colleges] 4071ASTROH Inleiding Astrofysica - HC
+DESCRIPTION:4071ASTROH Inleiding Astrofysica - HC\n            Gebruiker Hoekstra\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A736734
+TRANSP:OPAQUE
+UID:8e20a4cf-344f-499c-a400-418f3f210476@8e20.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191022T090000Z
+DTEND:20191022T110000Z
+SUMMARY:[toets] 4071ASTROT Inleiding Astrofysica TEN
+DESCRIPTION:4071ASTROT Inleiding Astrofysica TEN\n            Gebruiker Hoekstra\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A742520
+TRANSP:OPAQUE
+UID:c155f656-c65b-4cc1-9894-ed0e8671d480@c155.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190917T141500Z
+DTEND:20190917T180000Z
+SUMMARY:[practicum] LaTeX workshop
+DESCRIPTION:LaTeX workshop\n            Gebruiker DLF\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A731611
+TRANSP:OPAQUE
+UID:0abca493-0e26-4f78-a1ef-c4cbf3a01130@0abc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190906T091500Z
+DTEND:20190906T130000Z
+SUMMARY:[practicum] EN1 groep b
+DESCRIPTION:EN1 groep b\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728464
+TRANSP:OPAQUE
+UID:8e387d86-3996-4a8e-a271-6f397369242f@8e38.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200409T111500Z
+DTEND:20200409T130000Z
+SUMMARY:[colleges] 4061FVMT3H Fysica van Moderne Techn - HC
+DESCRIPTION:4061FVMT3H Fysica van Moderne Techn - HC\n            Gebruiker Loffler\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A722667
+TRANSP:OPAQUE
+UID:6f3e1eb1-c627-475e-8e0e-af00b5841f97@6f3e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190904T111500Z
+DTEND:20190904T130000Z
+SUMMARY:[colleges] Vakoverstijgende vaardigheden en Wiskunde Vaardigheden
+DESCRIPTION:Vakoverstijgende vaardigheden en Wiskunde Vaardigheden\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716953
+TRANSP:OPAQUE
+UID:ee8639d2-ed1d-4bb1-a885-fd96a500835c@ee86.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200324T141500Z
+DTEND:20200324T180000Z
+SUMMARY:[werkgroep/] 4071PRST6W Praktische Sterrenkunde - WG
+DESCRIPTION:4071PRST6W Praktische Sterrenkunde - WG\n            Gebruiker van Langevelde\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717316
+TRANSP:OPAQUE
+UID:d8eb2059-0196-4c01-b1ef-3156af9f0a61@d8eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200313T141500Z
+DTEND:20200313T174500Z
+SUMMARY:[tentamen] 4061OPTCAT Optica TEN
+DESCRIPTION:4061OPTCAT Optica TEN\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A739012
+TRANSP:OPAQUE
+UID:cdc77186-5622-4fff-ae41-3f0892a7adee@cdc7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200508T091500Z
+DTEND:20200508T110000Z
+SUMMARY:[colleges] 4061KLASAH Klassieke Mechanica a - HC
+DESCRIPTION:4061KLASAH Klassieke Mechanica a - HC\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717393
+TRANSP:OPAQUE
+UID:ba98c0d7-5536-41ba-86cf-019c60487127@ba98.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200303T091500Z
+DTEND:20200303T110000Z
+SUMMARY:[colleges] 4061OPTCAH Optica - HC
+DESCRIPTION:4061OPTCAH Optica - HC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717059
+TRANSP:OPAQUE
+UID:ade96173-ceca-4295-98c2-5b5073dcce83@ade9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191030T091500Z
+DTEND:20191030T110000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716965
+TRANSP:OPAQUE
+UID:cd1a219e-76ed-4310-b434-6ae399c42f1d@cd1a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191104T161500Z
+DTEND:20191104T170000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716964
+TRANSP:OPAQUE
+UID:7723f2ce-a877-4282-a671-b27ae8a5bf83@7723.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190906T141500Z
+DTEND:20190906T180000Z
+SUMMARY:[practicum] EN1 groep c
+DESCRIPTION:EN1 groep c\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728471
+TRANSP:OPAQUE
+UID:e6244496-4397-4275-92e0-1cacab5d127a@e624.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191114T091500Z
+DTEND:20191114T110000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716959
+TRANSP:OPAQUE
+UID:1c68f8d4-39fa-4598-8224-211388a911cd@1c68.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191127T091500Z
+DTEND:20191127T110000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716965
+TRANSP:OPAQUE
+UID:00f147e6-ff88-46f3-b896-be12be11c32a@00f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200220T111500Z
+DTEND:20200220T130000Z
+SUMMARY:[colleges] 4061FVLDPH Fysica van Leven - HC
+DESCRIPTION:4061FVLDPH Fysica van Leven - HC\n            Gebruiker Semrau\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717377
+TRANSP:OPAQUE
+UID:aa9fde06-277e-45f8-85bc-8d276c38c012@aa9f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200226T111500Z
+DTEND:20200226T130000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717353
+TRANSP:OPAQUE
+UID:fd7a4681-fc36-4f28-8a5a-11cffaccbc08@fd7a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200305T111500Z
+DTEND:20200305T130000Z
+SUMMARY:[colleges] 4061FVLDPH Fysica van Leven - HC
+DESCRIPTION:4061FVLDPH Fysica van Leven - HC\n            Gebruiker Semrau\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717377
+TRANSP:OPAQUE
+UID:66ee7b38-2115-462e-b0f0-cfc16f2f6598@66ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191118T091500Z
+DTEND:20191118T110000Z
+SUMMARY:[werkgroep/] 4081AN1NAW Analyse 1NA - WG
+DESCRIPTION:4081AN1NAW Analyse 1NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730804
+TRANSP:OPAQUE
+UID:ff88f8cb-433c-4eca-a901-df9beb9100f6@ff88.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191002T111500Z
+DTEND:20191002T130000Z
+SUMMARY:[werkgroep/] 4061IMN06W Introductie Moderne Nat - WC
+DESCRIPTION:4061IMN06W Introductie Moderne Nat - WC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716967
+TRANSP:OPAQUE
+UID:9f4d0aaa-8eeb-4ffb-9357-dafd24ff33d0@9f4d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200610T091500Z
+DTEND:20200610T130000Z
+SUMMARY:[werkgroep/] 4601PC11CW Presenteren & Communiceren -WG
+DESCRIPTION:4601PC11CW Presenteren & Communiceren -WG\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717466
+TRANSP:OPAQUE
+UID:8b976833-ac2c-4251-bf4e-3b9854545226@8b97.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191211T111500Z
+DTEND:20191211T130000Z
+SUMMARY:[werkgroep/] 4061IMN06W Introductie Moderne Nat - WC
+DESCRIPTION:4061IMN06W Introductie Moderne Nat - WC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716967
+TRANSP:OPAQUE
+UID:92501e1c-d00c-4741-ae57-04661fee0f2c@9250.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200205T111500Z
+DTEND:20200205T130000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717353
+TRANSP:OPAQUE
+UID:17414312-eb62-475b-9d6a-331381ae4306@1741.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191101T141500Z
+DTEND:20191101T180000Z
+SUMMARY:[practicum] EN 2 groep a
+DESCRIPTION:EN 2 groep a\n            Gebruiker Martin van Hecke\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728483
+TRANSP:OPAQUE
+UID:f250e0e3-81af-4578-9f84-8b2b2818dfe3@f250.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190918T091500Z
+DTEND:20190918T110000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716965
+TRANSP:OPAQUE
+UID:648b753f-85d1-4c2e-87ba-97ed2ae31f3e@648b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191203T161500Z
+DTEND:20191203T180000Z
+SUMMARY:[werkgroep/] 4061OPTCAW Optica - WC
+DESCRIPTION:4061OPTCAW Optica - WC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717054
+TRANSP:OPAQUE
+UID:2b22217d-91b7-4fc2-a54c-4f55ffebb5fb@2b22.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190926T111500Z
+DTEND:20190926T130000Z
+SUMMARY:[werkgroep/] 4081LA1NAW Lineaire Algebra 1NA - WG
+DESCRIPTION:4081LA1NAW Lineaire Algebra 1NA - WG\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A742452
+TRANSP:OPAQUE
+UID:202f4883-3ee1-44fa-b7a5-cea9ea673ad2@202f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191104T091500Z
+DTEND:20191104T110000Z
+SUMMARY:[werkgroep/] 4081AN1NAW Analyse 1NA - WG
+DESCRIPTION:4081AN1NAW Analyse 1NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730804
+TRANSP:OPAQUE
+UID:9f344092-cde3-4fd3-9179-e72ab8ed3361@9f34.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191031T111500Z
+DTEND:20191031T130000Z
+SUMMARY:[werkgroep/] 4081LA1NAW Lineaire Algebra 1NA - WG
+DESCRIPTION:4081LA1NAW Lineaire Algebra 1NA - WG\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A742452
+TRANSP:OPAQUE
+UID:0ffa74f5-6871-4449-86af-10952f1987d2@0ffa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191015T141500Z
+DTEND:20191015T180000Z
+SUMMARY:[practicum] EN1 groep c
+DESCRIPTION:EN1 groep c\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728470
+TRANSP:OPAQUE
+UID:a1828405-f7aa-4b96-b609-50d10c0b1c32@a182.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200604T141500Z
+DTEND:20200604T180000Z
+SUMMARY:[werkgroep/] 4601PC11CW Presenteren & Communiceren -WG
+DESCRIPTION:4601PC11CW Presenteren & Communiceren -WG\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717463
+TRANSP:OPAQUE
+UID:edaa467c-b49a-457d-9f8a-3d58218f3eba@edaa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191018T091500Z
+DTEND:20191018T130000Z
+SUMMARY:[practicum] EN1 groep e
+DESCRIPTION:EN1 groep e\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728473
+TRANSP:OPAQUE
+UID:a5d9f50f-37b3-43bb-ad64-7fb23cb8fedc@a5d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191213T091500Z
+DTEND:20191213T130000Z
+SUMMARY:[practicum] EN 3 groep c
+DESCRIPTION:EN 3 groep c\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728486
+TRANSP:OPAQUE
+UID:21dd9511-ecc6-4167-b2ca-db9ff877ce89@21dd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200203T141500Z
+DTEND:20200203T160000Z
+SUMMARY:[colleges] 4071PLST3H Planetenstelsels - HC
+DESCRIPTION:4071PLST3H Planetenstelsels - HC\n            Gebruiker Brown\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717362
+TRANSP:OPAQUE
+UID:aa2456be-6bda-462a-98bc-e7d0b8115af7@aa24.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200224T111500Z
+DTEND:20200224T130000Z
+SUMMARY:[werkgroep/] 4081AN2NAW Analyse 2NA - WG
+DESCRIPTION:4081AN2NAW Analyse 2NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717345
+TRANSP:OPAQUE
+UID:30425734-ee93-4eee-a5da-94e524bf94ed@3042.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191210T091500Z
+DTEND:20191210T110000Z
+SUMMARY:[colleges] 4031PRGR4H Programmeermethoden NA - HC
+DESCRIPTION:4031PRGR4H Programmeermethoden NA - HC\n            Gebruiker Preuss\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A723217
+TRANSP:OPAQUE
+UID:87601631-d069-4162-9d65-fd36d7b62e25@8760.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200514T091500Z
+DTEND:20200514T130000Z
+SUMMARY:[werkgroep/] 4601PC11CW Presenteren & Communiceren -WG
+DESCRIPTION:4601PC11CW Presenteren & Communiceren -WG\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717445
+TRANSP:OPAQUE
+UID:c2bed6dc-e735-4b60-b8e2-0637db638812@c2be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200331T091500Z
+DTEND:20200331T110000Z
+SUMMARY:[colleges] 4061ELMGVH Elektr & Magnetische Velden HC
+DESCRIPTION:4061ELMGVH Elektr & Magnetische Velden HC\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717629
+TRANSP:OPAQUE
+UID:96de1d8a-8171-4d6e-a92d-4eade1d64fbd@96de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191007T111500Z
+DTEND:20191007T130000Z
+SUMMARY:[colleges] 4081LA1NAH Lineaire Algebra 1NA - HC
+DESCRIPTION:4081LA1NAH Lineaire Algebra 1NA - HC\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716947
+TRANSP:OPAQUE
+UID:4941e0b0-19a5-42a7-a3b0-7193fe04ae89@4941.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200217T091500Z
+DTEND:20200217T110000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717326
+TRANSP:OPAQUE
+UID:03b9d941-d0bc-46ce-9aa4-32f305a0cc8f@03b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190924T141500Z
+DTEND:20190924T180000Z
+SUMMARY:[practicum] LaTeX workshop
+DESCRIPTION:LaTeX workshop\n            Gebruiker DLF\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A731614
+TRANSP:OPAQUE
+UID:2fade6d6-0a5d-4219-9d8c-acbe2dc38f81@2fad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200417T091500Z
+DTEND:20200417T110000Z
+SUMMARY:[colleges] 4061KLASAH Klassieke Mechanica a - HC
+DESCRIPTION:4061KLASAH Klassieke Mechanica a - HC\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717393
+TRANSP:OPAQUE
+UID:f81a03ed-38b2-4388-a876-5bc1b692b094@f81a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190916T111500Z
+DTEND:20190916T130000Z
+SUMMARY:[colleges] 4081LA1NAH Lineaire Algebra 1NA - HC
+DESCRIPTION:4081LA1NAH Lineaire Algebra 1NA - HC\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716947
+TRANSP:OPAQUE
+UID:bb2f2db5-0d4d-46db-b985-e60e00466cb6@bb2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200629T101500Z
+DTEND:20200629T131500Z
+SUMMARY:[hertentame] 4081AN2NAT Analyse 2 NA TEN
+DESCRIPTION:4081AN2NAT Analyse 2 NA TEN\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730248
+TRANSP:OPAQUE
+UID:9de4663d-f15c-4682-96ef-27a7713e0de8@9de4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190909T111500Z
+DTEND:20190909T130000Z
+SUMMARY:[colleges] 4081LA1NAH Lineaire Algebra 1NA - HC
+DESCRIPTION:4081LA1NAH Lineaire Algebra 1NA - HC\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716947
+TRANSP:OPAQUE
+UID:2815c5d9-7b93-4301-b1ea-5b9d585da56f@2815.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200310T141500Z
+DTEND:20200310T180000Z
+SUMMARY:[werkgroep/] 4071PRST6W Praktische Sterrenkunde - WG
+DESCRIPTION:4071PRST6W Praktische Sterrenkunde - WG\n            Gebruiker van Langevelde\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717316
+TRANSP:OPAQUE
+UID:8e8fb0bf-27a7-44b8-b7ff-785c368412e1@8e8f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200422T131500Z
+DTEND:20200422T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:610a902f-abbd-4f71-bae3-b3020ccb3f45@610a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191009T131500Z
+DTEND:20191009T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:2cf6b7d1-0b2b-4824-aa6c-50409b7e4e34@2cf6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200324T111500Z
+DTEND:20200324T130000Z
+SUMMARY:[werkgroep/] 4061ELMGVW Elektr & Magnetische Velden WG
+DESCRIPTION:4061ELMGVW Elektr & Magnetische Velden WG\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717634
+TRANSP:OPAQUE
+UID:58492b45-74c3-4cc5-a616-22251e64e190@5849.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200220T111500Z
+DTEND:20200220T130000Z
+SUMMARY:[colleges] 4061FVMT3H Fysica van Moderne Techn - HC
+DESCRIPTION:4061FVMT3H Fysica van Moderne Techn - HC\n            Gebruiker Loffler\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A722667
+TRANSP:OPAQUE
+UID:1cd9d34a-8006-4f54-b128-f7454ebc94ce@1cd9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190925T111500Z
+DTEND:20190925T130000Z
+SUMMARY:[werkgroep/] 4061IMN06W Introductie Moderne Nat - WC
+DESCRIPTION:4061IMN06W Introductie Moderne Nat - WC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716967
+TRANSP:OPAQUE
+UID:331da7d9-ed3b-4863-8c56-8c737d3d9815@331d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191206T141500Z
+DTEND:20191206T180000Z
+SUMMARY:[practicum] EN 3 groep a
+DESCRIPTION:EN 3 groep a\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728485
+TRANSP:OPAQUE
+UID:f04656f6-b705-4319-be1d-e2db75a44a3f@f046.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191126T141500Z
+DTEND:20191126T160000Z
+SUMMARY:[colleges] 4061OPTCAH Optica - HC
+DESCRIPTION:4061OPTCAH Optica - HC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717045
+TRANSP:OPAQUE
+UID:26e9bab5-5b62-4f27-a3e3-73dfef504663@26e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200406T091500Z
+DTEND:20200406T110000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717326
+TRANSP:OPAQUE
+UID:b5509ff5-4ee7-451d-bd26-00ae405c7425@b550.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200203T131500Z
+DTEND:20200203T140000Z
+SUMMARY:[colleges] 4061DIFF3H Diffusie - HC
+DESCRIPTION:4061DIFF3H Diffusie - HC\n            Gebruiker van Noort\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717355
+TRANSP:OPAQUE
+UID:57b5c362-1b23-4761-bdb2-27003aeb6ba1@57b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191028T091500Z
+DTEND:20191028T110000Z
+SUMMARY:[werkgroep/] 4081AN1NAW Analyse 1NA - WG
+DESCRIPTION:4081AN1NAW Analyse 1NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730804
+TRANSP:OPAQUE
+UID:ce7038e7-940a-4ccf-b770-02cb45bbf994@ce70.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191129T091500Z
+DTEND:20191129T130000Z
+SUMMARY:[practicum] EN 3 groep c
+DESCRIPTION:EN 3 groep c\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728486
+TRANSP:OPAQUE
+UID:500fe6fa-750e-4dd3-95f0-6f722dd0b96d@500f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200526T091500Z
+DTEND:20200526T110000Z
+SUMMARY:[colleges] 4061ELMGVH Elektr & Magnetische Velden HC
+DESCRIPTION:4061ELMGVH Elektr & Magnetische Velden HC\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717629
+TRANSP:OPAQUE
+UID:869b9d80-6644-40b0-bd68-1bf3349cf4e7@869b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190902T111500Z
+DTEND:20190902T130000Z
+SUMMARY:[colleges] Introductie opleiding Natuurkunde\, Sterrenkunde en/of Wiskun
+DESCRIPTION:Introductie opleiding Natuurkunde\, Sterrenkunde en/of Wiskun\n            Gebruiker None\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716945
+TRANSP:OPAQUE
+UID:df80c408-357d-4ff2-9c0e-515d62189141@df80.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200506T131500Z
+DTEND:20200506T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:25952863-ce5c-494e-885b-9c6148dab767@2595.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191121T141500Z
+DTEND:20191121T180000Z
+SUMMARY:[practicum] EN 2 groep b
+DESCRIPTION:EN 2 groep b\n            Gebruiker Martin van Hecke\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728484
+TRANSP:OPAQUE
+UID:f79e46df-c802-466c-baa4-e6652d11fa6a@f79e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200617T141500Z
+DTEND:20200617T171500Z
+SUMMARY:[tentamen] 4061ELMGVT Elektrische en Magnetische Vel
+DESCRIPTION:4061ELMGVT Elektrische en Magnetische Vel\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717533
+TRANSP:OPAQUE
+UID:99f0bf52-3e0d-4acf-b482-9ebe5e0307ed@99f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200303T111500Z
+DTEND:20200303T130000Z
+SUMMARY:[werkgroep/] 4061OPTCAW Optica - WC
+DESCRIPTION:4061OPTCAW Optica - WC\n            Gebruiker van Exter\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717062
+TRANSP:OPAQUE
+UID:053acb79-7cbd-46b8-a4f9-ef5d5e4aa020@053a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191028T111500Z
+DTEND:20191028T130000Z
+SUMMARY:[colleges] 4081LA1NAH Lineaire Algebra 1NA - HC
+DESCRIPTION:4081LA1NAH Lineaire Algebra 1NA - HC\n            Gebruiker Streng\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716947
+TRANSP:OPAQUE
+UID:c4e97d00-5920-4173-9c4a-e5cad688d98c@c4e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191113T131500Z
+DTEND:20191113T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:f6689468-ca35-4be4-946d-994bd1e30e19@f668.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191011T091500Z
+DTEND:20191011T130000Z
+SUMMARY:[practicum] EN1 groep b
+DESCRIPTION:EN1 groep b\n            Gebruiker Paul Logman\n            Aanvrager Bhoendie\, C Huygens Laboratorium\n            Aanvraagnummer A728464
+TRANSP:OPAQUE
+UID:5f807f04-ea70-4198-a602-c064575b70a3@5f80.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191028T161500Z
+DTEND:20191028T170000Z
+SUMMARY:[colleges] 4061IMN06H Introductie Moderne Nat - HC
+DESCRIPTION:4061IMN06H Introductie Moderne Nat - HC\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716964
+TRANSP:OPAQUE
+UID:32148edb-d6a1-4cd7-b80d-34fc0bd5c250@3214.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200115T141500Z
+DTEND:20200115T171500Z
+SUMMARY:[hertentame] 4061IMN06T Introductie moderne natuurkund
+DESCRIPTION:4061IMN06T Introductie moderne natuurkund\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730392
+TRANSP:OPAQUE
+UID:95a8a958-0ee2-4da7-ba30-0db3a1719fb2@95a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191122T141500Z
+DTEND:20191122T160000Z
+SUMMARY:[colleges] Introductie 3 Experimentele Natuurkunde
+DESCRIPTION:Introductie 3 Experimentele Natuurkunde\n            Gebruiker Logman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717035
+TRANSP:OPAQUE
+UID:14c1ff6c-c960-49e2-8ca4-fa7a95b3c678@14c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190905T091500Z
+DTEND:20190905T110000Z
+SUMMARY:[colleges] 4081AN1NAH Analyse 1NA - HC
+DESCRIPTION:4081AN1NAH Analyse 1NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716959
+TRANSP:OPAQUE
+UID:32170e24-793b-4653-9cb5-08c6a7dde082@3217.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200224T091500Z
+DTEND:20200224T110000Z
+SUMMARY:[colleges] 4081AN2NAH Analyse 2NA - HC
+DESCRIPTION:4081AN2NAH Analyse 2NA - HC\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717326
+TRANSP:OPAQUE
+UID:c0b916a2-d9a6-428d-a2a9-8593fe76a257@c0b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191023T090000Z
+DTEND:20191023T110000Z
+SUMMARY:[toets] 4061IMN06T Introductie moderne natuurkund
+DESCRIPTION:4061IMN06T Introductie moderne natuurkund\n            Gebruiker Schalm\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A741311
+TRANSP:OPAQUE
+UID:3e351ae2-3141-4d85-ad36-02a12384ccf4@3e35.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190923T091500Z
+DTEND:20190923T110000Z
+SUMMARY:[werkgroep/] 4081AN1NAW Analyse 1NA - WG
+DESCRIPTION:4081AN1NAW Analyse 1NA - WG\n            Gebruiker Kooman\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730804
+TRANSP:OPAQUE
+UID:07df698b-1099-4398-b66c-dcefec5d9a10@07df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191223T101500Z
+DTEND:20191223T131500Z
+SUMMARY:[tentamen] 4071ASTROT Inleiding Astrofysica TEN
+DESCRIPTION:4071ASTROT Inleiding Astrofysica TEN\n            Gebruiker Hoekstra\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A730368
+TRANSP:OPAQUE
+UID:4e988733-a5b8-4d00-85d1-4e846b0182a9@4e98.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200428T091500Z
+DTEND:20200428T110000Z
+SUMMARY:[colleges] 4061ELMGVH Elektr & Magnetische Velden HC
+DESCRIPTION:4061ELMGVH Elektr & Magnetische Velden HC\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717629
+TRANSP:OPAQUE
+UID:789d5f8b-80a2-4d0f-a29c-27723c513caa@789d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200619T141500Z
+DTEND:20200619T171500Z
+SUMMARY:[tentamen] 4061KLASAT Klassieke mechanica a TEN
+DESCRIPTION:4061KLASAT Klassieke mechanica a TEN\n            Gebruiker Kraft\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717550
+TRANSP:OPAQUE
+UID:a5ba5cc9-6180-4e77-b73d-166515af1c13@a5ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200603T141500Z
+DTEND:20200603T160000Z
+SUMMARY:[colleges] 4061ELMGVH Elektr & Magnetische Velden HC
+DESCRIPTION:4061ELMGVH Elektr & Magnetische Velden HC\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717424
+TRANSP:OPAQUE
+UID:5030febb-58ba-422c-a6bd-e52038a04bcc@5030.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200309T131500Z
+DTEND:20200309T140000Z
+SUMMARY:[colleges] 4061DIFF3H Diffusie - HC
+DESCRIPTION:4061DIFF3H Diffusie - HC\n            Gebruiker van Noort\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717355
+TRANSP:OPAQUE
+UID:7d1f97af-2afd-43f0-8055-da14d4663a40@7d1f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20191002T131500Z
+DTEND:20191002T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:05c1fe82-f52c-4e56-9d38-e808c9fd13fd@05c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200225T141500Z
+DTEND:20200225T180000Z
+SUMMARY:[werkgroep/] 4071PRST6W Praktische Sterrenkunde - WG
+DESCRIPTION:4071PRST6W Praktische Sterrenkunde - WG\n            Gebruiker van Langevelde\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717316
+TRANSP:OPAQUE
+UID:8517caaa-2cb2-40fa-bc9e-89868ce13212@8517.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200304T131500Z
+DTEND:20200304T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:8fb29335-834c-4255-b904-714ea12c7586@8fb2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20190918T131500Z
+DTEND:20190918T140000Z
+SUMMARY:[lezing] Lunchlezing DLF
+DESCRIPTION:Lunchlezing DLF\n            Gebruiker De Leidsche Flesch\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A716725
+TRANSP:OPAQUE
+UID:d61d4ab5-db57-4c60-a0d5-fd800f3d032e@d61d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20190714T120718Z
+DTSTART:20200526T111500Z
+DTEND:20200526T130000Z
+SUMMARY:[werkgroep/] 4061ELMGVW Elektr & Magnetische Velden WG
+DESCRIPTION:4061ELMGVW Elektr & Magnetische Velden WG\n            Gebruiker Wagenaar\n            Aanvrager Bhoendie\, C.S. Leids Instituut Onderzoek Natu\n            Aanvraagnummer A717634
+TRANSP:OPAQUE
+UID:38504855-fc31-4033-98a0-17c732aa9d1d@3850.org
+END:VEVENT
+END:VCALENDAR
