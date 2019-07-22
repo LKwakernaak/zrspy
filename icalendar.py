@@ -3,6 +3,8 @@ import click
 import arrow
 import pandas as pd
 
+import logging
+
 from ics import Calendar, Event
 
 from datamodel import engine
@@ -10,7 +12,7 @@ from datamodel import engine
 @click.command()
 @click.argument('queryfile', required=True)
 def to_ics(queryfile):
-    click.echo("Fetching data")
+    logging.info("Fetching data")
     with open(queryfile) as f:
         sqlquery = f.read()
 
@@ -43,10 +45,10 @@ def to_ics(queryfile):
 
             calendar.events.add(event)
 
-    click.echo('Writing to {}.ics'.format(calname))
+    logging.info('Writing to {}.ics'.format(calname))
     with open('{}.ics'.format(calname), 'w') as f:
         f.writelines(calendar)
-    click.echo('Done!')
+    logging.info('Done!')
 
 
 

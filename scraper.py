@@ -6,6 +6,7 @@ import requests
 import time
 from multiprocessing import Pool
 import sys
+import logging
 
 from datamodel import engine, parse_appointments, find_keys
 
@@ -81,7 +82,7 @@ class Scraper():
             with engine.begin() as conn:
                 conn.execute(sql)
         except:
-            print('Created table')
+            logging.debug('Created table')
 
         # Append to appointments
         table.to_sql('appointments', engine, if_exists='append', index=False)
@@ -131,7 +132,7 @@ class Scraper():
         try:
             df = self.parse_table(df, day, month, year)
         except:
-            print("Error parsing table\n",df)
+            logging.debug("Error parsing table\n",df)
         if update:
             self.update_db(df, day, month, year)
 
@@ -146,7 +147,7 @@ class Scraper():
                 #                self.startdriver()
                 self.grabpage(page_url, restart=False)
             else:
-                print("Multiple bad requests for:", page_url)
+                logging.debug("Multiple bad requests for:", page_url)
         return r
 
     def __init__(self, *args, **kwargs):
@@ -178,12 +179,12 @@ def update_db(day, month, year, days):
         # scraper = Scraper()
         scraper.grabtable(date.day, date.month, date.year, True)
 
-    click.echo("day {}\nmonth {}\nyear {}\ndays {}".format(day, month, year, days))
+    logging.debug("scraping_input day {}\nmonth {}\nyear {}\ndays {}".format(day, month, year, days))
 
     today = datetime.date.today()
 
     if days is not None:
-        click.echo('sequence of {} days'.format(days))
+        # click.echo('sequence of {} days'.format(days))
         d = datetime.timedelta(days=1)
         date_list = [today + d * (i + 1) for i in range(int(days))]
 
@@ -202,9 +203,8 @@ def update_db(day, month, year, days):
             year = today.year
 
         table = scraper.grabtable(day, month, year)
-        click.echo(table.to_csv())
 
-    click.echo("Pulled data")
+    logging.info("Pulled data")
     # click.echo("Parsing...")
     parse_appointments()
 

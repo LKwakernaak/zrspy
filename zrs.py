@@ -1,8 +1,10 @@
 import click
+import logging
 from scraper import update_db
 from googlecalendar import to_gcal
 from icalendar import to_ics
 from query import query_editor
+import configparser
 
 @click.group()
 def main():
@@ -14,4 +16,19 @@ main.add_command(to_ics)
 main.add_command(query_editor)
 #
 if __name__ == '__main__':
-   main()
+    config = configparser.ConfigParser()
+    config.read('config.ini')
+
+    loglevels = {
+        'INFO' : logging.INFO,
+        'DEBUG' : logging.DEBUG,
+        'WARNING' : logging.WARNING,
+        'ERROR' : logging.ERROR,
+        'CRITICAL' : logging.CRITICAL
+    }
+
+    loglevel = loglevels[config['DEFAULT']['LogLevel']]
+
+    logging.basicConfig(filename='zrspy.log', level=loglevel)
+
+    main()

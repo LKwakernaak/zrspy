@@ -2,9 +2,17 @@ import sqlalchemy
 from sqlalchemy import Column, Integer, String, Date, Time, text, func, ForeignKey, exists
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker, relationship
+
+import logging
+
+import configparser
+config = configparser.ConfigParser()
+config.read('config.ini')
+data_url = config['DEFAULT']['DatabaseURL']
+
 # from fuzzywuzzy import fuzz
 
-engine = sqlalchemy.create_engine("sqlite:///data3.db")
+engine = sqlalchemy.create_engine(data_url)
 Session = sessionmaker(bind=engine, autoflush=False, autocommit=False)
 
 Base = declarative_base()
@@ -94,7 +102,7 @@ def parse_appointments():
 
         if not session.query(Study).filter_by(key=candidate_study_key).first():  # study exists in db
             session.add(Study(key=str(candidate_study_key)))
-            print('New study: {}'.format(candidate_study_key))
+            logging.info('New study: {}'.format(candidate_study_key))
 
     for appointment in session.query(Appointment)\
             .filter(Appointment.course_key.isnot(None))\
@@ -105,15 +113,15 @@ def parse_appointments():
         if not session.query(Course).filter_by(key=candidate_course_key).first():
             session.add(
                 Course(key=str(candidate_course_key), name=str(" ".join(appointment.activiteit.split()[1:])), study_key=str(candidate_study_key)))
-            print('New Course {}'.format(candidate_course_key))
+            logging.info('New Course {}'.format(candidate_course_key))
 
     session.commit()
 
 
 
-def find_typo():
-    courses = [course for course in session.query(Appointment.course_key, func.count(Appointment.course_key)).group_by(Appointment.course_key)]
-    print(courses)
+# def find_typo():
+#     courses = [course for course in session.query(Appointment.course_key, func.count(Appointment.course_key)).group_by(Appointment.course_key)]
+#     print(courses)
 
 if __name__ == '__main__':
     parse_appointments()
