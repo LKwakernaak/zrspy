@@ -1,7 +1,5 @@
 import click
 from datamodel import session, Appointment, Study, Course
-import sys
-# from utilities import getch
 
 class Query():
     selections = []
@@ -10,7 +8,7 @@ class Query():
     appointments = set()
 
     def __init__(self, name):
-        self.name = str(name)
+        self.name = str(name).split('.')[0]
         self._getstudies()
         self._getcourses()
         self._getappointments()
@@ -41,7 +39,7 @@ class Query():
         querries = []
         try:
             with open(self.name+'.sql', 'r') as file:
-                file.readline(1)
+                file.readline()
                 for line in file:
                     line = line.split('--')[0] # remove comments
                     line = line.replace('`', '')
@@ -78,7 +76,7 @@ class Query():
             file.writelines(self.text)
 
 
-def autocompleted_input(choices=['aap','anders','banaan']):
+def autocompleted_input(choices=['aap','noot','mies']):
     """Asks te user for input and adds possible autocmpleted results.
 
     :param choices: list of strings containing all possible choices
@@ -95,11 +93,9 @@ def autocompleted_input(choices=['aap','anders','banaan']):
             # print(ord(newchar))
 
         if ord(newchar.encode()) == 3: # ctrl + c
-            print("\n"+str(chars))
             return
 
         elif ord(newchar) == 8: # backspace
-            print('backspace')
             if len(chars) > 0:
                 chars = chars[:-1]
 
@@ -108,7 +104,6 @@ def autocompleted_input(choices=['aap','anders','banaan']):
                 chars = autocomplete[0]
 
         elif ord(newchar) == 13: # enter
-            print(chars)
             return "".join(chars)
 
         else:
@@ -140,11 +135,11 @@ def choice_caroucel(choices=['aap', 'noot', 'mies']):
     index = 0
     length = len(choices)
     while True:
-        click.echo("Choose {}".format(choices[index]))
+        click.echo("Choose with arrow keys {}".format(choices[index]))
 
         keypress = click.getchar()
-        print(keypress, len(keypress))
-        if len(keypress) == 2: # arrow key
+        # print(keypress, len(keypress))
+        if len(keypress) == 2: # possible arrow key depending on system
             index += 1
             index %= length
         elif ord(keypress) == 13: # enter
@@ -177,6 +172,7 @@ def query_editor():
             choice = choice_caroucel(query.selections)
             if choice:
                 click.prompt("Are you sure", type=click.Choice(["yes", "no"]))
+                query.selections.remove(choice)
 
         elif str(choice) == 'save':
             query.export()
