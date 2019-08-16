@@ -7,7 +7,7 @@ setup(
     packages=find_packages(),
     install_requires=[
             'click',
-            'arrow',
+            'arrow==0.4.2',
             'ics',
             'bs4',
             'pandas',
