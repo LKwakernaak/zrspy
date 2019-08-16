@@ -1,5 +1,8 @@
 import click
 from datamodel import session, Appointment, Study, Course
+import os
+
+os.chdir(os.path.dirname(__file__))
 
 class Query():
     def __init__(self, name, directory='queries/'):
@@ -73,6 +76,7 @@ class Query():
 
     def export(self):
         with open(self.directory+self.name+'.sql', 'w') as file:
+            print(self.text)
             file.writelines(self.text)
 
 
