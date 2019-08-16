@@ -43,8 +43,8 @@ def _to_ics(queryfile, output_dir=None):
             event = Event()
             event.name = "[{}] {}".format(i['soort_act'], i['activiteit'])
 
-            begin = arrow.get(' '.join([i['date'], i['start_time']]), "YYYY-MM-DD HH:mm")
-            end = arrow.get(' '.join([i['date'], i['end_time']]), "YYYY-MM-DD HH:mm")
+            begin = arrow.get(' '.join([i['date'], i['start_time']]), "YYYY-MM-DD HH:mm:ss")
+            end = arrow.get(' '.join([i['date'], i['end_time']]), "YYYY-MM-DD HH:mm:ss")
 
             event.begin = begin
             event.end = end
