@@ -8,6 +8,7 @@ setup(
     install_requires=[
             'click',
             'arrow',
+            'ics',
             'bs4',
             'pandas',
             'httplib2',
