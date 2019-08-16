@@ -2,13 +2,13 @@ import click
 from datamodel import session, Appointment, Study, Course
 
 class Query():
-    selections = []
-    courses = set()
-    studies = set()
-    appointments = set()
-
-    def __init__(self, name):
+    def __init__(self, name, directory='queries/'):
         self.name = str(name).split('.')[0]
+        self.selections = []
+        self.courses = set()
+        self.studies = set()
+        self.appointments = set()
+        self.directory = directory
         self._getstudies()
         self._getcourses()
         self._getappointments()
@@ -38,7 +38,7 @@ class Query():
         tables = []
         querries = []
         try:
-            with open(self.name+'.sql', 'r') as file:
+            with open(self.directory+self.name+'.sql', 'r') as file:
                 file.readline()
                 for line in file:
                     line = line.split('--')[0] # remove comments
@@ -52,9 +52,9 @@ class Query():
 
                 self.selections = list(zip(tables, querries))
         except FileNotFoundError:
-            click.echo('New File')
-            with open(self.name+'.sql', 'w') as file:
-                pass
+            # click.echo('New File')
+            # with open(self.directory+self.name+'.sql', 'w') as file:
+            pass
 
 
     def addselection(self, table, name):
@@ -72,7 +72,7 @@ class Query():
         return output
 
     def export(self):
-        with open(self.name+'.sql', 'w') as file:
+        with open(self.directory+self.name+'.sql', 'w') as file:
             file.writelines(self.text)
 
 
