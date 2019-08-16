@@ -26,6 +26,9 @@ def progress(count, total, status=''):
 class Scraper():
     @staticmethod
     def parse_table(table, day, month, year):
+        if len(table) <= 0:
+            raise AssertionError("Empty table")
+
         table.dropna(how='all', inplace=True)
 
         table['start_time'], table['end_time'] = zip(*table['Tijd'].map(lambda x: x.split(' ')))
@@ -43,7 +46,7 @@ class Scraper():
         table.drop_duplicates('Aanvr.nr', inplace=True)
         table.reset_index(inplace=True, drop=True)
 
-        table.columns = [i.replace(' ', '_').replace('.', '_') for i in columns]
+        table.columns = [i.replace(' ', '_').replace('.', '_').replace('/', '').replace('\\', '') for i in columns]
 
         mapping = {
             "Tijd": "tijd",
@@ -70,7 +73,6 @@ class Scraper():
 
         # table['start_time'] = pd.to_datetime(table['start_time'])
         # table['end_time'] = pd.to_datetime(table['end_time'])
-
         return table
 
     def update_db(self, table, day, month, year):
@@ -131,8 +133,9 @@ class Scraper():
         #        self.driver.back()
         try:
             df = self.parse_table(df, day, month, year)
-        except:
-            logging.debug("Error parsing table\n",df)
+        except AssertionError:
+            logging.debug("Error parsing table {} {} {}\n".format(day, month, year),df)
+            raise
         if update:
             self.update_db(df, day, month, year)
 
@@ -173,7 +176,6 @@ class Scraper():
 @click.option('--days', default=None, help="The total number of days to fetch")
 def update_db(day, month, year, days):
     scraper = Scraper()
-    pool = Pool(30)
 
     def download_data(date):
         # scraper = Scraper()
@@ -183,25 +185,30 @@ def update_db(day, month, year, days):
 
     today = datetime.date.today()
 
+    if day is None:
+        day = today.day
+    if month is None:
+        month = today.month
+    if year is None:
+        year = today.year
+
     if days is not None:
+        pool = Pool(32)
         # click.echo('sequence of {} days'.format(days))
         d = datetime.timedelta(days=1)
-        date_list = [today + d * (i + 1) for i in range(int(days))]
-
+        sign = lambda x: (1, -1)[x < 0]
+        date_list = [datetime.date(year, month, day) + d * (i*sign(int(days)) + 1) for i in range(abs(int(days)))]
+        # print(date_list)
         res = [pool.apply_async(scraper.grabtable, (date.day, date.month, date.year, True)) for date in date_list]
         for i, result in enumerate(res):
             progress(i, len(date_list))
             # scraper.grabtable(date.day, date.month, date.year, True)
-            result.get()
+            try:
+                result.get()
+            except:
+                print(date_list[i])
 
     else:
-        if day is None:
-            day = today.day
-        if month is None:
-            day = today.month
-        if year is None:
-            year = today.year
-
         table = scraper.grabtable(day, month, year)
 
     logging.info("Pulled data")
@@ -209,15 +216,15 @@ def update_db(day, month, year, days):
     parse_appointments()
 
 if __name__ == '__main__':
-    pass
-    # scraper = Scraper()
-    #
-    # today = datetime.datetime.today().date()
-    # # print(today)
-    #
-    # update_db(1,1,1,100)
-    #
-    # # print(scraper.grabtable(today.day+1,today.month,today.year))
-    # # print(scraper.session.cookies)
-    #
-    # update_db(1,1,1,120)
+    # pass
+    scraper = Scraper()
+
+    today = datetime.datetime.today().date()
+    # print(today)
+
+    update_db(1,1,1,100)
+
+    # print(scraper.grabtable(today.day+1,today.month,today.year))
+    # print(scraper.session.cookies)
+
+    update_db(1,1,1,120)
