@@ -5,18 +5,19 @@ setup(
     version='0.1',
     py_modules=['zrs'],
     packages=find_packages(),
-    # install_requires=[
-    #         'click',
-    #         'bs4',
-    #         'pandas',
-    #         'httplib2',
-    #         'datetime',
-    #         'requests',
-    #         'sqlalchemy',
-    #         'oauth2client',
-    #         'google-api-python-client',
-    # 	  'lxml',
-    #         ],
+    install_requires=[
+            'click',
+            'arrow',
+            'bs4',
+            'pandas',
+            'httplib2',
+            'datetime',
+            'requests',
+            'sqlalchemy',
+            'oauth2client',
+            'google-api-python-client',
+    	  'lxml',
+            ],
     entry_points='''
     [console_scripts]
     zrspy=zrs:main
