@@ -1,3 +1,4 @@
+import os
 import sqlalchemy
 from sqlalchemy import Column, Integer, String, Date, Time, text, func, ForeignKey, exists
 from sqlalchemy.ext.declarative import declarative_base
@@ -6,6 +7,9 @@ from sqlalchemy.orm import sessionmaker, relationship
 import logging
 
 import configparser
+
+os.chdir(os.path.dirname(__file__))
+
 config = configparser.ConfigParser()
 config.read('config.ini')
 data_url = config['DEFAULT']['DatabaseURL']
@@ -85,6 +89,8 @@ Base.metadata.create_all(engine)
 session = Session()
 
 def find_keys(appointment):
+    if type(appointment) is not type(str()):
+        return None, None
     candidate = appointment.split()[0]
     candidate_study_key = candidate[:4]
     candidate_course_key = candidate[4:]
@@ -125,5 +131,5 @@ def parse_appointments():
 
 if __name__ == '__main__':
     parse_appointments()
-    find_typo()
+    # find_typo()
     # print(fuzz.ratio('aap', 'mantequilla'))
