@@ -9,7 +9,7 @@ pip install .
 ```
 In case you want to mess around with zrspy add the development flag
 ```
-pip install . --development
+pip install --editable .
 ```
 or
 ```
