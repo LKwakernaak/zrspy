@@ -9,10 +9,21 @@ from ics import Calendar, Event
 
 from datamodel import engine
 
-@click.command()
-@click.argument('queryfile', required=True)
-def to_ics(queryfile):
+os.chdir(os.path.dirname(__file__))
+
+def folder_to_ics():
+    indir = 'queries/'
+    outdir = 'icals/'
+    for filename in os.listdir(indir):
+        if filename.lower().endswith('.sql'):
+            try:
+                _to_ics(indir+filename, output_dir=outdir)
+            except:
+                print("{} invalid query file".format(indir+filename))
+
+def _to_ics(queryfile, output_dir=None):
     logging.info("Fetching data")
+
     with open(queryfile) as f:
         sqlquery = f.read()
 
@@ -20,11 +31,10 @@ def to_ics(queryfile):
     data = pd.read_sql_query(sqlquery, engine)
 
     if len(data) == 0:
-        click.secho("No matching appointments found. Try running zrspy update-db", fg='yellow')
+        click.secho("No matching appointments found in {}. Try running zrspy update-db".format(queryfile), fg='yellow')
         return
 
     calname = os.path.basename(queryfile).split('.')[0]
-
 
     calendar = Calendar()
 
@@ -33,22 +43,31 @@ def to_ics(queryfile):
             event = Event()
             event.name = "[{}] {}".format(i['soort_act'], i['activiteit'])
 
-            begin = arrow.get(' '.join([i['date'],i['start_time']]), "YYYY-MM-DD HH:mm")
+            begin = arrow.get(' '.join([i['date'], i['start_time']]), "YYYY-MM-DD HH:mm")
             end = arrow.get(' '.join([i['date'], i['end_time']]), "YYYY-MM-DD HH:mm")
 
             event.begin = begin
             event.end = end
             event.description = """{activiteit}
-            Gebruiker {gebruiker}
-            Aanvrager {aanvr_pers} {aanvrager}
-            Aanvraagnummer {aanvr_nr}""".format(**i)
+                Gebruiker {gebruiker}
+                Aanvrager {aanvr_pers} {aanvrager}
+                Aanvraagnummer {aanvr_nr}""".format(**i)
 
             calendar.events.add(event)
 
     logging.info('Writing to {}.ics'.format(calname))
-    with open('{}.ics'.format(calname), 'w') as f:
+    with open('{}.ics'.format(output_dir+calname), 'w') as f:
         f.writelines(calendar)
     logging.info('Done!')
+
+@click.command()
+@click.argument('queryfile', required=False)
+def to_ics(queryfile):
+    if queryfile is None:
+        folder_to_ics()
+    else:
+        _to_ics(queryfile)
+
 
 
 
@@ -56,7 +75,7 @@ def to_ics(queryfile):
 if __name__ == "__main__":
     cal = Calendar()
     event = Event()
-    to_ics('lkwakernaak.sql')
+    folder_to_ics()
 
 
 
