@@ -1,0 +1,5 @@
+select * from appointments
+	where course_key like 'KLSELT'
+	or course_key like 'KLSELT'
+	or course_key like 'KLSELT'
+	or course_key like 'KLSELT'
