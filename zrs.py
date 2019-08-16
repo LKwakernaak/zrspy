@@ -6,7 +6,7 @@ from icalendar import to_ics
 from query import query_editor
 import configparser
 
-@click.group()
+@click.group(chain=True)
 def main():
     pass
 
