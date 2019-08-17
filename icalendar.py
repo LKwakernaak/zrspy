@@ -2,13 +2,14 @@ import os
 import click
 import arrow
 import pandas as pd
-
 import logging
-
 from ics import Calendar, Event
-
 from datamodel import engine
 
+import warnings
+from arrow.factory import ArrowParseWarning
+
+warnings.simplefilter("ignore", ArrowParseWarning)
 os.chdir(os.path.dirname(__file__))
 
 def folder_to_ics():
