@@ -2,7 +2,7 @@ from datamodel import session, Appointment, Study, Course
 from query import Query
 import click
 
-click.command()
+@click.command()
 def detect_courses():
     for name, study, course in session.query(Course.name, Course.study_key, Course.key).\
             filter(Course.study_key.in_([4403, # physics master
