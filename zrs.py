@@ -11,11 +11,11 @@ from populate_queries import detect_courses
 def main():
     pass
 
-main.add_command(update_db)
+main.add_command(query_editor)
 main.add_command(to_gcal)
 main.add_command(to_ics)
 main.add_command(detect_courses)
-main.add_command(query_editor)
+main.add_command(update_db)
 #
 if __name__ == '__main__':
     config = configparser.ConfigParser()
