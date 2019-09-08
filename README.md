@@ -28,6 +28,20 @@ Commands:
   to-ics
   update-db
 ```
+# Setup
+Most icalandar supporting calendaring interfaces like google calendar and microsoft outlook support calendars based on published .ics files. Simply hosting an .ics file on an appache service and distributing the corresponding urls of the hosted files is enough to host files.
+For your convenience, the icalendar folder contains a .htaccess file that sets up indexing of the file.
+To update the ics files based on updates of the room reservation system, you can set up a cronjob with the following commands:
+```
+MAILTO=""
+30 5 * * * zrspy to-ics
+15 5 1 * * zrspy detect-courses
+0 5 1 * * zrspy update-db --days 365
+0 5 * * 1 zrspy update-db --days 30
+0 5 * * * zrspy update-db --days 7
+```
+This should keep all files up to date.
+A up-to date example is running at http://www.lkwakernaak.nl/icals
 
 # Update-db
 The first command to run. This command scrapes the room reservation system (zrs) to the local sqlite database file. The standard option for the command results in scraping by date (d m y). For example when trying to find out what classes are hosted for Ehrefests birthday:
