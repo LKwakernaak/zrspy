@@ -42,11 +42,11 @@ def _to_ics(queryfile, output_dir=None):
 
             try:
                 begin = arrow.get(' '.join([i['date'], i['start_time']]), "YYYY-MM-DD HH:mm:ss")
-                begin.replace(tzinfo='Europe/Amsterdam')
-                begin.to('GMT')
+                begin = begin.replace(tzinfo='Europe/Amsterdam')
+                begin = begin.to('UTC')
                 end = arrow.get(' '.join([i['date'], i['end_time']]), "YYYY-MM-DD HH:mm:ss")
-                end.replace(tzinfo='Europe/Amsterdam')
-                end.to('GMT')
+                end = end.replace(tzinfo='Europe/Amsterdam')
+                end = end.to('UTC')
             except DeprecationWarning:
                 pass
 
