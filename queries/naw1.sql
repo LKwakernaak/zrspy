@@ -2,7 +2,7 @@ select * from appointments
 where 
 	course_key like 'ANAL1%' -- Analyse (wiskunde)
 or course_key like 'ANAL2%'
-or course_key like 'ALGB1'
+or course_key like 'ALGB1%'
 or course_key like 'CALSC%'
 or activiteit like 'Lunchlezing DLF'
 or study_key like '4061' -- Natuurkunde
