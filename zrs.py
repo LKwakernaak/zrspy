@@ -1,7 +1,7 @@
 import click
 import logging
 from scraper import update_db
-from googlecalendar import to_gcal
+# from googlecalendar import to_gcal
 from icalendar import to_ics
 from query import query_editor
 import configparser
@@ -12,7 +12,7 @@ def main():
     pass
 
 main.add_command(query_editor)
-main.add_command(to_gcal)
+# main.add_command(to_gcal)
 main.add_command(to_ics)
 main.add_command(detect_courses)
 main.add_command(update_db)

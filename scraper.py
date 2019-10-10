@@ -7,8 +7,12 @@ import time
 from multiprocessing import Pool
 import sys
 import logging
+from loggingmail import send_maillog
+from threading import Lock
 
 from datamodel import engine, parse_appointments, find_keys
+
+MAILLOG = ''
 
 def progress(count, total, status=''):
     """
@@ -80,6 +84,33 @@ class Scraper():
         date = datetime.date(int(year), int(month), int(day))
         sql = "DELETE from appointments WHERE date='{:%Y-%m-%d}'".format(date)
 
+        old_table = pd.read_sql_table('appointments', engine).drop(columns=['id', 'pers', 'course_key', 'study_key'])
+        old_table = old_table[old_table['date']==pd.datetime(int(year), int(month), int(day))]
+        old_table = old_table[old_table['aanvr_pers'].str.startswith('Bhoen', na=False)]
+        old_table = old_table[['date', 'tijd', 'activiteit']]
+
+        selection_table = table[table['aanvr_pers'].str.startswith('Bhoen', na=False)]
+        selection_table = selection_table[['date', 'tijd', 'activiteit']]
+
+        df = pd.merge(selection_table, old_table, how='left',
+                      left_on=['activiteit'], right_on=['activiteit'],
+                      left_index=True, indicator=True, suffixes=('', '_prev'))
+        # send_maillog(df.loc['date','tijd','activiteit'].head(20).to_string())
+        # send_maillog('testing')
+        # mail_logger.info("test")#df.to_html())
+        # print(df.head(15).aanvr_pers_y)
+        for i in df.columns:
+            if i.endswith('_prev'):
+                j = i[:-5]
+                if not df[i].equals(df[j]):
+                    print(df[i], '\n', df[j])
+                    print('------------------------------------')
+        global MAILLOG
+        df = df[df['_merge'] != 'both']
+        if len(df) > 0:
+            df = df.drop(columns=['_merge'])
+            MAILLOG += df.to_html() + '\n'
+
         try:
             with engine.begin() as conn:
                 conn.execute(sql)
@@ -137,7 +168,8 @@ class Scraper():
             logging.debug("Error parsing table {} {} {}\n".format(day, month, year),df)
             raise
         if update:
-            self.update_db(df, day, month, year)
+            with Lock():
+                self.update_db(df, day, month, year)
 
         return df
 
@@ -198,15 +230,16 @@ def update_db(day, month, year, days):
         d = datetime.timedelta(days=1)
         sign = lambda x: (1, -1)[x < 0]
         date_list = [datetime.date(year, month, day) + d * (i*sign(int(days)) + 1) for i in range(abs(int(days)))]
+        [scraper.grabtable(date.day, date.month, date.year, True) for date in date_list]
         # print(date_list)
-        res = [pool.apply_async(scraper.grabtable, (date.day, date.month, date.year, True)) for date in date_list]
-        for i, result in enumerate(res):
-            progress(i, len(date_list))
-            # scraper.grabtable(date.day, date.month, date.year, True)
-            try:
-                result.get()
-            except:
-                print(date_list[i])
+        # res = [pool.apply(scraper.grabtable, (date.day, date.month, date.year, True)) for date in date_list]
+        # for i, result in enumerate(res):
+        #     progress(i, len(date_list))
+        #     # scraper.grabtable(date.day, date.month, date.year, True)
+        #     try:
+        #         result.get()
+        #     except:
+        #         print(date_list[i])
 
     else:
         table = scraper.grabtable(day, month, year)
@@ -214,6 +247,9 @@ def update_db(day, month, year, days):
     logging.info("Pulled data")
     # click.echo("Parsing...")
     parse_appointments()
+
+    if len(MAILLOG) > 0:
+        send_maillog(MAILLOG)
 
 if __name__ == '__main__':
     # pass
