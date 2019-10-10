@@ -19,7 +19,6 @@ def folder_to_ics():
                 print("{} invalid query file".format(indir+filename))
 
 def _to_ics(queryfile, output_dir=None):
-    logging.info("Fetching data")
 
     with open(queryfile) as f:
         sqlquery = f.read()
@@ -59,10 +58,9 @@ def _to_ics(queryfile, output_dir=None):
 
             calendar.events.add(event)
 
-    logging.info('Writing to {}.ics'.format(calname))
+    logging.debug('Writing to {}.ics'.format(calname))
     with open('{}.ics'.format(output_dir+calname), 'w') as f:
         f.writelines(calendar)
-    logging.info('Done!')
 
 @click.command()
 @click.argument('queryfile', required=False)
