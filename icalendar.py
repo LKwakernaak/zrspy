@@ -54,7 +54,9 @@ def _to_ics(queryfile, output_dir=None):
             event.description = """{activiteit}
                 Gebruiker {gebruiker}
                 Aanvrager {aanvr_pers} {aanvrager}
-                Aanvraagnummer {aanvr_nr}""".format(**i)
+                Aanvraagnummer {aanvr_nr}
+                Locatie {locatie}""".format(**i)
+            event.location = str(i['locatie'])
 
             calendar.events.add(event)
 
