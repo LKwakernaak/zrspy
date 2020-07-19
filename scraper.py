@@ -166,7 +166,7 @@ class Scraper():
             df = self.parse_table(df, day, month, year)
         except AssertionError:
             logging.debug("Error parsing table {} {} {}\n".format(day, month, year),df)
-            raise
+            return
         if update:
             with Lock():
                 self.update_db(df, day, month, year)
