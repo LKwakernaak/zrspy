@@ -89,7 +89,7 @@ class Scraper():
         old_table = old_table[old_table['aanvr_pers'].str.startswith('Bhoen', na=False)]
         old_table = old_table[['date', 'tijd', 'activiteit']]
 
-        selection_table = table[table['aanvr_pers'].str.startswith('Bhoen', na=False)]
+        selection_table = table[table['aanvr_pers'].astype(str).str.startswith('Bhoen', na=False)]
         selection_table = selection_table[['date', 'tijd', 'activiteit']]
 
         df = pd.merge(selection_table, old_table, how='left',
